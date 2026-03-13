@@ -161,7 +161,19 @@ mindmap
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 
-<h2 align="center">📈 Field Metrics</h2>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ0cjI0ZHd0dGR4cjkwbWFmYjUzNnM3b3R4bzVxODZ4ZWRhd3RhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdNniyf0ArS/giphy.gif" width="30" />
+  Field Metrics
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ0cjI0ZHd0dGR4cjkwbWFmYjUzNnM3b3R4bzVxODZ4ZWRhd3RhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdNniyf0ArS/giphy.gif" width="30" />
+</h2>
+
+<div align="center">
+  <a href="https://github.com/i-am-paradox"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=DAA520&center=true&vCenter=true&width=500&height=25&lines=Real-time+metrics+computed+from+GitHub+API+%F0%9F%93%A1;Updated+on+every+profile+visit+%E2%9A%A1" /></a>
+</div>
 
 <div align="center">
 
@@ -196,9 +208,19 @@ $$\text{Contribution}(t) = \int_{t_0}^{t} \text{commit}(\tau) \cdot e^{-\lambda(
 
 <!-- ═══════════════════════ MATH CHALLENGES ═══════════════════════ -->
 
-<h2 align="center">🧩 The Paradox Challenges</h2>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+</div>
 
-<p align="center"><i>Can you solve these? Most visitors can't. Try before scrolling.</i></p>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA5MjNsbXRuYjd3cWJvNjlyc3ptMnhhdnRncGhmanQ3aWhydWlkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YcGT5ShJa0nCM0/giphy.gif" width="35" />
+  The Paradox Challenges
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA5MjNsbXRuYjd3cWJvNjlyc3ptMnhhdnRncGhmanQ3aWhydWlkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YcGT5ShJa0nCM0/giphy.gif" width="35" />
+</h2>
+
+<div align="center">
+  <a href="https://github.com/i-am-paradox"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=DAA520&center=true&vCenter=true&width=600&height=30&lines=%E2%9A%A0%EF%B8%8F+Can+you+solve+these%3F+Most+visitors+can't.;%F0%9F%A7%A0+Try+before+scrolling.+No+cheating.;%F0%9F%92%80+%241%2C000%2C000+prize+for+Challenge+1+%E2%80%94+still+unclaimed." /></a>
+</div>
 
 <br/>
 
