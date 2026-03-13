@@ -1,197 +1,97 @@
 <div align="center">
 
-<!-- CYBERPUNK HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:00d4ff,100:000000&height=300&section=header&text=⟨%20PARADOX%20⟩&fontSize=70&fontColor=00d4ff&animation=twinkling&fontAlignY=40&desc=⠀⠀⠀«%20OFFENSIVE%20SECURITY%20•%20SYSTEMS%20ENGINEERING%20•%20FULL-STACK%20»⠀⠀⠀&descSize=14&descAlignY=62&descColor=7B68EE&stroke=00d4ff&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00d4ff,8a2be2,0d1117&height=250&section=header&text=P%20A%20R%20A%20D%20O%20X&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Security%20Researcher%20%E2%80%A2%20Red%20Team%20Operator%20%E2%80%A2%20Systems%20Engineer&descSize=16&descAlignY=65&descColor=c9d1d9" width="100%">
 
-<!-- MATRIX-STYLE TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%24+whoami;paradox+%E2%94%80+security+researcher+%7C+red+team+operator;%24+cat+%2Fetc%2Fmission;Break.+Build.+Repeat.+%F0%9F%94%93" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- QUICK STATS BAR -->
-<img src="https://img.shields.io/badge/FOCUS-Offensive_Security-ff6633?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/ACTIVE_ON-HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/EDITOR-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white&labelColor=0d1117" />
-
-</div>
-
-<!-- NEON LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- TERMINAL ABOUT -->
-```
-                    ╭──────────────────────────────────────────────╮
-                    │          ⟨ SYSTEM.PROFILE.LOADED ⟩          │
-                    ╰──────────────────────────────────────────────╯
-
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │                                                                     │
-  │   Codename ........... Paradox                                      │
-  │   Class .............. Offensive Security Engineer                   │
-  │   Affiliation ........ Independent Researcher / Bug Bounty Hunter   │
-  │   Arsenal ............ Rust, Python, TypeScript, Go, C++, Bash      │
-  │   Specialization ..... Red Team Ops, API Security, RAG Exploitation │
-  │   Status ............. 🟢 Active on HackerOne                       │
-  │   Philosophy ......... "The best defense is a relentless offense."  │
-  │                                                                     │
-  └─────────────────────────────────────────────────────────────────────┘
-```
-
-<!-- NEON LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<a href="https://github.com/i-am-paradox">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&height=50&lines=Hunting+Vulnerabilities+in+the+Wild;Forging+Exploits+in+Rust+%26+Python;The+Best+Defense+is+a+Relentless+Offense" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- WHAT I DO - VISUAL GRID -->
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🔴 Red Team Arsenal</h3>
-
-<div align="center">
-
-```
- ╔═══════════════════════════╗
- ║  OFFENSIVE CAPABILITIES   ║
- ╠═══════════════════════════╣
- ║ ► Web App Exploitation    ║
- ║ ► API Security Testing    ║
- ║ ► AI/LLM Red Teaming      ║
- ║ ► RAG Poisoning & Prompt  ║
- ║   Injection               ║
- ║ ► OSINT & Reconnaissance  ║
- ║ ► Network Penetration     ║
- ║ ► C2 Framework Ops        ║
- ╚═══════════════════════════╝
-```
+<a href="mailto:hi@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00d4ff?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=0d1117" /></a>
+<a href="https://hackerone.com/"><img src="https://img.shields.io/badge/HackerOne-Bounty_Hunter-8a2be2?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/i-am-paradox"><img src="https://img.shields.io/badge/Location-India-ffffff?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d1117" /></a>
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-<h3 align="center">🔵 Builder Arsenal</h3>
-
-<div align="center">
-
-```
- ╔═══════════════════════════╗
- ║  ENGINEERING CAPABILITIES ║
- ╠═══════════════════════════╣
- ║ ► Full-Stack Web Apps     ║
- ║ ► Systems Programming     ║
- ║ ► CLI Security Tools      ║
- ║ ► API Design & Backend    ║
- ║ ► Holographic UIs         ║
- ║ ► Telegram Bots           ║
- ║ ► DevOps & CI/CD          ║
- ║ ► Cloud Infrastructure    ║
- ╚═══════════════════════════╝
-```
-
-</div>
-
-</td>
-</tr>
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="55%" valign="top" style="border: none;">
+      <h3 align="center">About Me</h3>
+      <ul>
+        <li>🛡️ <b>Focus:</b> Offensive Security, Bug Bounty, Red Team Operations.</li>
+        <li>🦀 <b>Engineering:</b> Building high-performance security tooling and autonomous agents in Rust & Python.</li>
+        <li>⚔️ <b>Interests:</b> API Security, Network Exploitation, RAG/LLM Red Teaming, OSINT Automation.</li>
+        <li>🎯 <b>Current Objective:</b> Dominating the Leaderboards.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" style="border: none;">
+      <h3 align="center">Top Languages</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-paradox&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="100%" />
+      </div>
+    </td>
+  </tr>
 </table>
 
-</div>
-
 <br/>
 
-<!-- NEON LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- TECH STACK - ORGANIZED BY CATEGORY -->
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">⚡ Tech Arsenal</h2>
 
 <div align="center">
 
-<details>
-<summary><b>⚔️ Offensive Security Toolkit — click to expand</b></summary>
-<br/>
-
-| Category | Tools |
-|----------|-------|
-| **Recon** | `Nmap` `Nuclei` `Amass` `Subfinder` `httpx` `Shodan` `theHarvester` |
-| **Web** | `Burp Suite` `SQLMap` `ffuf` `XSStrike` `Arjun` `Commix` |
-| **Exploitation** | `Metasploit` `Sliver` `Cobalt Strike` `Impacket` |
-| **Reversing** | `Ghidra` `Frida` `x64dbg` `Radare2` |
-| **Wireless** | `Aircrack-ng` `Bettercap` `WiFi Pineapple` |
-| **OSINT** | `Maltego` `SpiderFoot` `Recon-ng` `Google Dorking` |
-| **AI Red Team** | `Prompt Injection` `RAG Poisoning` `LLM Jailbreaking` |
-
-</details>
-
-<details>
-<summary><b>🛠️ Development Stack — click to expand</b></summary>
-<br/>
-
-| Category | Tech |
-|----------|------|
-| **Systems** | ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,cpp,go,ts,js,bash&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=kali,linux,apple,windows,docker,aws,gcp,nginx&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,postgres,mongodb,redis,git,neovim&theme=dark" />
+</p>
 
 </div>
 
 <br/>
 
-<!-- NEON LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- FEATURED PROJECTS - BETTER LAYOUT -->
 <h2 align="center">🏴‍☠️ Featured Operations</h2>
 
 <div align="center">
-
-<a href="https://github.com/i-am-paradox/api-checker-v1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=api-checker-v1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6633&text_color=8b949e" width="49%" />
-</a>
-<a href="https://github.com/i-am-paradox/tbs-sct-recon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=tbs-sct-recon&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6633&text_color=8b949e" width="49%" />
-</a>
-<a href="https://github.com/i-am-paradox/stark-holographic-hud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=stark-holographic-hud&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6633&text_color=8b949e" width="49%" />
-</a>
-<a href="https://github.com/i-am-paradox/cc-cheacker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=cc-cheacker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6633&text_color=8b949e" width="49%" />
-</a>
-
+  <a href="https://github.com/i-am-paradox/api-checker-v1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=api-checker-v1&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=8a2be2&text_color=c9d1d9" width="48%" />
+  </a>
+  <a href="https://github.com/i-am-paradox/tbs-sct-recon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=tbs-sct-recon&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=8a2be2&text_color=c9d1d9" width="48%" />
+  </a>
+  <a href="https://github.com/i-am-paradox/cc-cheacker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=cc-cheacker&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=8a2be2&text_color=c9d1d9" width="48%" />
+  </a>
+  <a href="https://github.com/i-am-paradox/resume">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=resume&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=8a2be2&text_color=c9d1d9" width="48%" />
+  </a>
 </div>
 
 <br/>
 
-<!-- NEON LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h2 align="center">📊 Activity Radar</h2>
 
-<!-- STATS - MINIMAL DARK -->
-<h2 align="center">📊 Kill Count</h2>
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=i-am-paradox&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=8a2be2&text_color=c9d1d9&ring_color=00d4ff" width="100%" />
+    </td>
+    <td width="50%" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=i-am-paradox&hide_border=true&background=0D1117&ring=00d4ff&fire=8a2be2&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=1e293b" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=i-am-paradox&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6633&text_color=8b949e&ring_color=00d4ff&count_private=true&hide_title=false&custom_title=Paradox%27s%20Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=i-am-paradox&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6633&currStreakLabel=00D4FF&sideLabels=8b949e&dates=58a6ff&stroke=161b22" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-am-paradox&bg_color=0d1117&color=c9d1d9&line=00d4ff&point=8a2be2&area_color=0d1117&area=true&hide_border=true&custom_title=Contributions" width="100%" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-am-paradox&custom_title=⚡%20Activity%20Radar&bg_color=0d1117&color=00d4ff&line=ff6633&point=00d4ff&area_color=0d1117&area=true&hide_border=true&title_color=00d4ff" width="95%"/>
-</div>
+<h2 align="center">🐍 Code Contributions</h2>
 
-<br/>
-
-<!-- SNAKE ANIMATION -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-am-paradox/i-am-paradox/output/github-snake-dark.svg" />
@@ -202,36 +102,6 @@
 
 <br/>
 
-<!-- NEON LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- BOTTOM SECTION -->
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=i-am-paradox&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" width="90%"/>
-
-<br/><br/>
-
-<!-- HACKER QUOTE -->
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  "Hack the planet. Then secure it."                          │
-│                                    — The Paradox Doctrine    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-<!-- VISITOR + LAST UPDATED -->
-![Visitors](https://komarev.com/ghpvc/?username=i-am-paradox&style=flat-square&color=00d4ff&labelColor=0d1117&label=VISITORS)
-&nbsp;&nbsp;
-![Updated](https://img.shields.io/badge/UPDATED-March_2026-00d4ff?style=flat-square&labelColor=0d1117)
-&nbsp;&nbsp;
-![Status](https://img.shields.io/badge/STATUS-🟢_Hunting_Bugs-00ff41?style=flat-square&labelColor=0d1117)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00d4ff,8a2be2,0d1117&height=100&section=footer" width="100%"/>
 </div>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:00d4ff,100:000000&height=100&section=footer"/>
