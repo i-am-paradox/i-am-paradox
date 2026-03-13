@@ -194,23 +194,147 @@ $$\text{Contribution}(t) = \int_{t_0}^{t} \text{commit}(\tau) \cdot e^{-\lambda(
 
 <br/>
 
-<!-- ═══════════════════════ FEATURED ═══════════════════════ -->
+<!-- ═══════════════════════ MATH CHALLENGES ═══════════════════════ -->
 
-<h2 align="center">🏴‍☠️ Featured Operations</h2>
+<h2 align="center">🧩 The Paradox Challenges</h2>
+
+<p align="center"><i>Can you solve these? Most visitors can't. Try before scrolling.</i></p>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🔥 Challenge 1: The Collatz Conjecture
+
+Pick **any** positive integer $n$. Apply this rule repeatedly:
+
+$$f(n) = \begin{cases} n/2 & \text{if } n \equiv 0 \pmod{2} \\\\ 3n + 1 & \text{if } n \equiv 1 \pmod{2} \end{cases}$$
+
+**Conjecture:** Every starting number eventually reaches $1$.
+
+Try $n = 27$. It takes **111 steps** and peaks at **9,232** before collapsing to 1. Nobody has proven this for all $n$.
+
+**$1,000,000 prize** — still unsolved since 1937.
+
+```mermaid
+graph LR
+    A["n = 27"] -->|×3+1| B["82"]
+    B -->|÷2| C["41"]
+    C -->|×3+1| D["124"]
+    D -->|÷2| E["62"]
+    E -->|"... 111 steps"| F["1 ✓"]
+    style A fill:#daa520,color:#000
+    style F fill:#daa520,color:#000
+```
+
+</td>
+<td width="50%">
+
+### 🧠 Challenge 2: The Monty Hall Paradox
+
+You're on a game show. Three doors:
+- 🚗 One has a car
+- 🐐 Two have goats
+
+You pick a door. The host opens another door (always a goat). **Should you switch?**
+
+$$\mathbb{P}(\text{win} \mid \text{switch}) = \frac{2}{3} \quad \gg \quad \mathbb{P}(\text{win} \mid \text{stay}) = \frac{1}{3}$$
+
+**Yes. Always switch.** Your brain says 50/50, but Bayes' theorem says otherwise:
+
+$$\mathbb{P}(A \mid B) = \frac{\mathbb{P}(B \mid A) \cdot \mathbb{P}(A)}{\mathbb{P}(B)}$$
+
+*Most PhDs get this wrong on first try.*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### ∞ Challenge 3: Euler's Identity Crisis
+
+The most beautiful equation in mathematics connects five fundamental constants:
+
+$$\LARGE e^{i\pi} + 1 = 0$$
+
+It unifies:
+- $e$ — growth & decay
+- $i$ — the imaginary unit ($\sqrt{-1}$)
+- $\pi$ — circles & geometry
+- $1$ — multiplicative identity
+- $0$ — additive identity
+
+**Question:** If $e^{i\theta} = \cos\theta + i\sin\theta$, can you prove that $e^{i\pi} = -1$?
+
+*Hint: What is $\cos(\pi)$ and $\sin(\pi)$?*
+
+</td>
+<td width="50%">
+
+### 🔐 Challenge 4: RSA in 60 Seconds
+
+You intercept this RSA ciphertext:
+
+$$c = m^e \mod n$$
+
+Given:
+- $n = 3233$ (public modulus)
+- $e = 17$ (public exponent)
+- $c = 2790$ (ciphertext)
+
+**Find the original message $m$.**
+
+*Hint:* Factor $n$ into primes $p \times q$, compute $\phi(n) = (p-1)(q-1)$, find $d = e^{-1} \mod \phi(n)$, then:
+
+$$m = c^d \mod n$$
+
+<details>
+<summary><b>💀 Click for answer</b></summary>
+<br/>
+
+$n = 61 \times 53$, $\phi = 3120$, $d = 2753$
+
+$$m = 2790^{2753} \mod 3233 = \boxed{65}$$
+
+ASCII 65 = **'A'**. The message was the letter A.
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <a href="https://github.com/i-am-paradox/api-checker-v1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=api-checker-v1&hide_border=true&bg_color=0a0a0a&title_color=daa520&icon_color=b8860b&text_color=c0c0c0" width="49%" />
-  </a>
-  <a href="https://github.com/i-am-paradox/tbs-sct-recon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=tbs-sct-recon&hide_border=true&bg_color=0a0a0a&title_color=daa520&icon_color=b8860b&text_color=c0c0c0" width="49%" />
-  </a>
-  <a href="https://github.com/i-am-paradox/cc-cheacker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=cc-cheacker&hide_border=true&bg_color=0a0a0a&title_color=daa520&icon_color=b8860b&text_color=c0c0c0" width="49%" />
-  </a>
-  <a href="https://github.com/i-am-paradox/resume">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-paradox&repo=resume&hide_border=true&bg_color=0a0a0a&title_color=daa520&icon_color=b8860b&text_color=c0c0c0" width="49%" />
-  </a>
+
+### 📐 The Golden Ratio Hidden in Fibonacci
+
+$$\phi = \frac{1 + \sqrt{5}}{2} = 1.618033988... = \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cdots}}}}$$
+
+```mermaid
+graph LR
+    F1["F₁ = 1"] --> F2["F₂ = 1"]
+    F2 --> F3["F₃ = 2"]
+    F3 --> F4["F₄ = 3"]
+    F4 --> F5["F₅ = 5"]
+    F5 --> F6["F₆ = 8"]
+    F6 --> F7["F₇ = 13"]
+    F7 --> F8["Fₙ₊₁/Fₙ → φ"]
+    style F8 fill:#daa520,color:#000
+```
+
+$$\lim_{n \to \infty} \frac{F_{n+1}}{F_n} = \phi \approx 1.618$$
+
+<sub>The ratio that governs galaxies, sunflowers, hurricanes, and the stock market.</sub>
+
 </div>
 
 <br/>
