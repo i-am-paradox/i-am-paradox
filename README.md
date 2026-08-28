@@ -14,8 +14,8 @@ $$\huge \mathbb{P}(\text{aradox}) = \left\\{ x \in \mathbb{R}^n \;\middle|\; \te
 
 <br/>
 
-<a href="https://github.com/i-am-paradox?tab=repositories"><img src="https://img.shields.io/badge/27_Repos-daa520?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a" /></a>
-<a href="https://github.com/i-am-paradox?tab=stars"><img src="https://img.shields.io/badge/59_Stars-b8860b?style=for-the-badge&logo=starship&logoColor=black&labelColor=0a0a0a" /></a>
+<a href="https://github.com/i-am-paradox?tab=repositories"><img src="https://img.shields.io/github/repos/i-am-paradox?style=for-the-badge&color=daa520&logo=github&logoColor=black&labelColor=0a0a0a&label=Repos" /></a>
+<a href="https://github.com/i-am-paradox?tab=stars"><img src="https://img.shields.io/github/stars/i-am-paradox?style=for-the-badge&color=b8860b&logo=starship&logoColor=black&labelColor=0a0a0a&label=Stars&affiliations=OWNER" /></a>
 <img src="https://img.shields.io/badge/HackerOne-Active-daa520?style=for-the-badge&logo=hackerone&logoColor=black&labelColor=0a0a0a" />
 <img src="https://komarev.com/ghpvc/?username=i-am-paradox&style=for-the-badge&color=daa520&labelColor=0a0a0a&label=Profile+Views" />
 
