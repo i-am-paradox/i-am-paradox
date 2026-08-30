@@ -54,7 +54,7 @@ Security researcher and full-stack engineer from India. I spend most of my time 
 
 ## Find Me
 
-- **HackerOne:** [hackerone.com/paradox](https://hackerone.com/paradox) — coordinated disclosure only
+- **Bug Bounty:** Active on HackerOne — coordinated disclosure only
 - **Site:** shenzhenlabss.com
 - **App:** [Apex Finance on Google Play](https://play.google.com/store/apps/details?id=com.apex.apex_finance)
 
