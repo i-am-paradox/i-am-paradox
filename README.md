@@ -16,11 +16,11 @@ Security researcher and full-stack engineer from India. I spend most of my time 
 
 | Project | What it is |
 |---|---|
-| **[Ping-Me](https://github.com/i-am-paradox/Ping-Me)** | End-to-end encrypted messenger built on the Signal Protocol — Flutter, clean architecture |
+| **[Ping-Me](https://github.com/iq4u8/Ping-Me)** | End-to-end encrypted messenger built on the Signal Protocol — Flutter, clean architecture |
 | **[Apex Finance](https://play.google.com/store/apps/details?id=com.apex.apex_finance)** | Personal finance tracker **published on Google Play** — Flutter + Firebase |
-| **[Forever Foundation](https://github.com/i-am-paradox/forever-foundation)** | Charity platform (Flutter app + NestJS backend) for a real charitable trust |
-| **[api-checker](https://github.com/i-am-paradox/api-checker-v1)** | Rust engine for OSINT-driven API key discovery & validation — 7 sources, async runtime |
-| **[tbs-sct-recon](https://github.com/i-am-paradox/tbs-sct-recon)** | Bug bounty reconnaissance toolkit — scripts, subdomain intel, scan orchestration |
+| **[Forever Foundation](https://github.com/i-am-paradox/forever-foundation-backend)** | Charity platform backend (NestJS + Auth0 + PhonePe + CockroachDB) for a real charitable trust |
+| **[Shenzhen Labs](https://github.com/i-am-paradox/shenzhen-frontend)** | Telegram Mini App & Web3 DApp frontend — design system, state machine, page routing |
+| **[stark-holographic-hud](https://github.com/i-am-paradox/stark-holographic-hud)** | Hand-tracking particle system with Stark-Tech holographic HUD — Three.js + MediaPipe |
 
 ## Skills
 
