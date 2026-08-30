@@ -1,84 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:b8860b,60:daa520,100:0a0a0a&height=230&section=header&text=P%20A%20R%20A%20D%20O%20X&fontSize=64&fontColor=daa520&animation=fadeIn&fontAlignY=38&desc=Mathematician%20%C2%B7%20Security%20Researcher%20%C2%B7%20Engineer&descSize=15&descAlignY=58&descColor=b8860b" width="100%"/>
+<a href="https://github.com/i-am-paradox">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=30&pause=100000&color=00FF41&center=true&vCenter=true&width=730&height=20&lines=%5B%2B%5D+paradox%40github%3A~%24+ssh+paradox%40i-am-paradox.dev" />
+</a>
 
-<br/>
+</div>
 
-$$\huge \mathbb{P}(\text{aradox}) = \left\{ x \in \mathbb{R}^n \;\middle|\; \text{Mathematician}(x) \wedge \text{Hacker}(x) \wedge \text{Engineer}(x) \right\}$$
+<div align="center">
 
-<br/>
+<!-- ═══════════════════ ASCII BANNER ═══════════════════ -->
 
-<a href="https://github.com/i-am-paradox?tab=repositories">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=620&height=45&lines=Mathematics+is+the+ultimate+exploit+%F0%9F%A7%AE;I+break+systems+with+proofs+%2C+not+luck+%F0%9F%94%93;I+build+them+better+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+```text
+ ██████╗ ██████╗ ██████╗ ██████╗ ██████╗  ██████╗ ██████╗
+ ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔══██╗
+ ██████╔╝██████╔╝██║  ██║██████╔╝██████╔╝██║   ██║██████╔╝
+ ██╔═══╝ ██╔══██╗██║  ██║██╔══██╗██╔══██╗██║   ██║██╔═══╝
+ ██║     ██║  ██║██████╔╝██║  ██║██║  ██║╚██████╔╝██║
+ ╚═╝     ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝
+```
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/i-am-paradox">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=30&lines=%3E+identity+loaded+%E2%9C%93;%3E+mathematician+%7C+breaker+%7C+builder+%3B%3B%3B%3E+security+researcher+by+obsession+%3B%3B%3B%3E+systems+engineer+by+profession+%3B%3B%3B" />
 </a>
 
 <br/>
 
-<a href="https://github.com/i-am-paradox?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%90%9B_Repos-28%2B-daa520?style=for-the-badge&labelColor=0a0a0a" /></a>
-<img src="https://img.shields.io/badge/%F0%9F%93%B1_Play_Store-Published-1a1a1a?style=for-the-badge&logo=googleplay&logoColor=daa520&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/%F0%9F%A7%AE_Math-Pure_%C2%B7_Applied-1a1a1a?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://komarev.com/ghpvc/?username=i-am-paradox&style=for-the-badge&color=daa520&labelColor=0a0a0a&label=VIEWS" />
+<a href="https://github.com/i-am-paradox?tab=repositories"><img src="https://img.shields.io/badge/%3E_repos-28%2B-0a0a0a?style=for-the-badge&labelColor=000000&color=00FF41" /></a>
+<img src="https://img.shields.io/badge/%3E_play_store-PUBLISHED-0a0a0a?style=for-the-badge&logo=googleplay&logoColor=00FF41&labelColor=000000&color=00FF41" />
+<img src="https://img.shields.io/badge/%3E_bug_bounty-ACTIVE-0a0a0a?style=for-the-badge&logo=hackerone&logoColor=00FF41&labelColor=000000&color=00FF41" />
+<img src="https://komarev.com/ghpvc/?username=i-am-paradox&style=for-the-badge&color=00FF41&labelColor=000000&label=%3E_views" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ THE PARADOX THEOREM ═══════════════════ -->
+<!-- ═══════════════════ TERMINAL: WHOAMI ═══════════════════ -->
 
-<h2 align="center"> 🧮 The Paradox Theorem </h2>
-
-<div align="center">
-
-> *"A system can only be truly secured by one who has first mastered the mathematics of breaking it."*
-
-</div>
+```
+┌─(paradox@github)─────────────────────────────────────────┐
+│                                                           │
+│  $ whoami                                                 │
+│  > mathematician turned security researcher.             │
+│  > i break systems with proofs, not luck.                 │
+│  > then i rebuild them — better.                          │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🧮 Mathematician
-The core identity. The lens for everything else.
-
-```yaml
-focus:
-  - number theory & crypto
-  - graph theory
-  - optimization
-  - probability & bayes
-  - chaos theory
-```
-
-$$\nabla_\theta J(\theta) = -\frac{1}{m}\sum_{i=1}^{m}\nabla_\theta \mathcal{L}(f_\theta(x^{(i)}), y^{(i)})$$
-
-</td>
-<td width="33%" valign="top">
-
-### 🔓 The Breaker
-Mathematics applied to offense.
+### `$ cat breaker.log`
 
 ```yaml
+role: offensive security
 focus:
   - web & api exploitation
   - recon automation
   - mobile app analysis
   - llm red teaming
+platform: [burp, kali, frida, ghidra, nuclei]
+status: hunting on hackerone
 ```
 
-$$\boxed{\forall\, S \in \text{Systems},\ \exists\, v : \mathbb{P}[\text{exploit}(v)] > 0}$$
+$$\forall\, S \in \text{Systems},\ \exists\, v : \mathbb{P}[\text{exploit}(v)] > 0$$
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🔨 The Builder
-Proofs turned into products.
+### `$ cat builder.log`
 
 ```yaml
+role: full-stack engineer
 stack:
   languages: [rust, python, dart, ts, cpp]
   mobile: flutter
-  backend: [nestjs, firebase]
+  backend: [nestjs, firebase, flask]
   web: [astro, react, three.js]
+status: shipping real products
 ```
 
 $$\lim_{n \to \infty} \frac{F_{n+1}}{F_n} = \phi \approx 1.618$$
@@ -87,153 +91,44 @@ $$\lim_{n \to \infty} \frac{F_{n+1}}{F_n} = \phi \approx 1.618$$
 </tr>
 </table>
 
-<br/>
+<!-- ═══════════════════ TERMINAL: MATH ENGINE ═══════════════════ -->
 
-<!-- ═══════════════════ MATH PLAYGROUND ═══════════════════ -->
-
-<h2 align="center"> 🎯 The Paradox Challenges — Can You Solve These? </h2>
-
-<div align="center">
-
-<sub>Most visitors scroll past. Math doesn't care about your feelings. 🧠</sub>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Challenge 1: The Collatz Conjecture
-
-Pick **any** positive integer $n$:
-
-$$f(n) = \begin{cases} n/2 & n \equiv 0 \pmod{2} \\\\ 3n+1 & n \equiv 1 \pmod{2} \end{cases}$$
-
-**Claim:** every $n$ eventually reaches $1$.
-
-Try $n = 27$: **111 steps**, peaking at **9,232**. Unsolved since **1937**. Erdős offered money for it. Still unclaimed.
-
-```text
-27 → 82 → 41 → 124 → 62 → 31 → ... → 1 ✓
+```
+┌─(paradox@github)─────────────────────────────────────────┐
+│                                                           │
+│  $ sudo ./math_engine --run                               │
+│  > [OK] number theory ............ loaded                 │
+│  > [OK] cryptography ............ loaded                 │
+│  > [OK] graph theory ............. loaded                 │
+│  > [OK] bayesian inference ....... loaded                 │
+│  > [OK] optimization ............. loaded                 │
+│  > [WARN] collatz conjecture ..... UNSOLVED since 1937    │
+│  > [WARN] millennium problems .... $7,000,000 unclaimed   │
+│  > [OK] the golden ratio ........ φ = 1.6180339887        │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
 
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Challenge 2: RSA in 60 Seconds
-
-Intercepted ciphertext:
-
-$$c = m^e \bmod n, \quad n = 3233,\ e = 17,\ c = 2790$$
-
-**Find $m$.**
-
-<details>
-<summary><b>💀 Solution</b></summary>
-
-$n = 61 \times 53 \Rightarrow \phi(n) = 3120$, and $d = 17^{-1} \bmod 3120 = 2753$
-
-$$m = 2790^{2753} \bmod 3233 = \boxed{65}$$
-
-ASCII 65 = **'A'**. The message was the letter A. 🔓
-
-</details>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Challenge 3: The Monty Hall Paradox
-
-Three doors. One car 🚗, two goats 🐐. You pick. The host (who knows) opens a goat door. **Switch or stay?**
-
-$$\mathbb{P}(\text{win} \mid \text{switch}) = \tfrac{2}{3} \quad \gg \quad \mathbb{P}(\text{win} \mid \text{stay}) = \tfrac{1}{3}$$
-
-Your intuition says 50/50. Bayes disagrees. Intuition loses.
-
-<details>
-<summary><b>💀 Why switching wins</b></summary>
-
-Your first pick is wrong with probability $\tfrac{2}{3}$. The host's reveal is **information** — it's not random. Switching converts that hidden information into a win. Every time.
-
-</details>
-
-</td>
-<td width="50%" valign="top">
-
-### ∞ Challenge 4: Euler's Identity
-
-$$\LARGE e^{i\pi} + 1 = 0$$
-
-Five fundamental constants. One line. Zero explanation needed.
-
-**Prove it:** from $e^{i\theta} = \cos\theta + i\sin\theta$, evaluate at $\theta = \pi$.
-
-<details>
-<summary><b>💀 Proof sketch</b></summary>
-
-$\cos\pi = -1$, $\sin\pi = 0$
-
-$$e^{i\pi} = \cos\pi + i\sin\pi = -1 + 0i = -1$$
-
-$$\therefore e^{i\pi} + 1 = 0 \blacksquare$$
-
-</details>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
 
-### 📐 The Golden Ratio — Hidden Everywhere
+$$e^{i\pi} + 1 = 0 \qquad \text{and} \qquad \mathbb{P}(\text{paradox}) = \left\{ x \;\middle|\; \text{Math}(x) \wedge \text{Hack}(x) \right\}$$
 
-$$\phi = \frac{1+\sqrt{5}}{2} = 1.6180339887... = \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cdots}}}}$$
+</div>
 
-```text
-F₁=1 → F₂=1 → F₃=2 → F₄=3 → F₅=5 → F₈=8 → ... → Fₙ₊₁/Fₙ → φ
+<!-- ═══════════════════ TERMINAL: SHIPPED ═══════════════════ -->
+
 ```
-
-<sub>The ratio that governs galaxies, sunflowers, hurricanes — and key exchange protocols.</sub>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════ ARSENAL ═══════════════════ -->
-
-<h2 align="center"> ⚔️ Arsenal </h2>
-
-<div align="center">
-
-**`offensive`** &nbsp;
-![Kali](https://img.shields.io/badge/KALI-0a0a0a?style=flat-square&logo=kalilinux&logoColor=daa520)
-![Burp](https://img.shields.io/badge/BURP-0a0a0a?style=flat-square&logo=portswigger&logoColor=daa520)
-![Nmap](https://img.shields.io/badge/NMAP-0a0a0a?style=flat-square&logoColor=daa520)
-![Nuclei](https://img.shields.io/badge/NUCLEI-0a0a0a?style=flat-square&logoColor=daa520)
-![Frida](https://img.shields.io/badge/FRIDA-0a0a0a?style=flat-square&logoColor=daa520)
-![Ghidra](https://img.shields.io/badge/GHIDRA-0a0a0a?style=flat-square&logoColor=daa520)
-
-**`math & code`** &nbsp;
-![Rust](https://img.shields.io/badge/RUST-0a0a0a?style=flat-square&logo=rust&logoColor=daa520)
-![Python](https://img.shields.io/badge/PYTHON-0a0a0a?style=flat-square&logo=python&logoColor=daa520)
-![Flutter](https://img.shields.io/badge/FLUTTER-0a0a0a?style=flat-square&logo=flutter&logoColor=daa520)
-![TypeScript](https://img.shields.io/badge/TS-0a0a0a?style=flat-square&logo=typescript&logoColor=daa520)
-![Docker](https://img.shields.io/badge/DOCKER-0a0a0a?style=flat-square&logo=docker&logoColor=daa520)
-![C++](https://img.shields.io/badge/C%2B%2B-0a0a0a?style=flat-square&logo=cplusplus&logoColor=daa520)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════ FEATURED WORK ═══════════════════ -->
-
-<h2 align="center"> 🚀 Shipped </h2>
+┌─(paradox@github)─────────────────────────────────────────┐
+│                                                           │
+│  $ ls -la ~/shipped/                                      │
+│  drwxr-xr-x  apex_finance    → LIVE on Google Play        │
+│  drwxr-xr-x  ping-me         → E2E encrypted messenger    │
+│  drwxr-xr-x  forever_fdn     → charity platform @ nestjs   │
+│  drwxr-xr-x  shenzhen_labs   → TON mini app @ telegram     │
+│  -rwxr-xr-x  math_engine     → always running              │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 <table>
@@ -241,31 +136,31 @@ F₁=1 → F₂=1 → F₃=2 → F₄=3 → F₅=5 → F₈=8 → ... → Fₙ�
 <td align="center" width="25%">
 
 <a href="https://play.google.com/store/apps/details?id=com.apex.apex_finance">
-<img src="https://img.shields.io/badge/Apex_Finance-PLAY_STORE-1a1a1a?style=for-the-badge&logo=googleplay&logoColor=daa520&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/apex_finance-PLAY_STORE-000000?style=for-the-badge&logo=googleplay&logoColor=00FF41&labelColor=000000&color=00FF41" />
 </a><br/>
-<sub>finance app · flutter + firebase</sub>
+<sub>finance · flutter + firebase</sub>
 
 </td>
 <td align="center" width="25%">
 
 <a href="https://github.com/iq4u8/Ping-Me">
-<img src="https://img.shields.io/badge/Ping%E2%80%91Me-E2E_ENCRYPTED-1a1a1a?style=for-the-badge&logo=signal&logoColor=daa520&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/ping--me-E2E_ENCRYPTED-000000?style=for-the-badge&logo=signal&logoColor=00FF41&labelColor=000000&color=00FF41" />
 </a><br/>
-<sub>signal protocol · crypto in prod</sub>
+<sub>signal protocol · flutter</sub>
 
 </td>
 <td align="center" width="25%">
 
 <a href="https://github.com/i-am-paradox/forever-foundation-backend">
-<img src="https://img.shields.io/badge/Forever_Fdn-NESTJS-1a1a1a?style=for-the-badge&logo=nestjs&logoColor=daa520&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/forever_fdn-NESTJS-000000?style=for-the-badge&logo=nestjs&logoColor=00FF41&labelColor=000000&color=00FF41" />
 </a><br/>
-<sub>charity platform · auth0</sub>
+<sub>charity · auth0 + phonepe</sub>
 
 </td>
 <td align="center" width="25%">
 
 <a href="https://github.com/i-am-paradox/shenzhen-frontend">
-<img src="https://img.shields.io/badge/Shenzhen-TON_DAPP-1a1a1a?style=for-the-badge&logo=ton&logoColor=daa520&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/shenzhen-TON_DAPP-000000?style=for-the-badge&logo=ton&logoColor=00FF41&labelColor=000000&color=00FF41" />
 </a><br/>
 <sub>telegram mini app · web3</sub>
 
@@ -274,36 +169,43 @@ F₁=1 → F₂=1 → F₃=2 → F₄=3 → F₅=5 → F₈=8 → ... → Fₙ�
 </table>
 </div>
 
-<br/>
+<!-- ═══════════════════ TERMINAL: STATS ═══════════════════ -->
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
-
-<h2 align="center"> 📡 Field Metrics </h2>
+```
+┌─(paradox@github)─────────────────────────────────────────┐
+│                                                           │
+│  $ ./contribution_metrics --render                        │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=i-am-paradox&hide_border=true&background=0A0A0A&ring=DAA520&fire=B8860B&currStreakLabel=DAA520&sideLabels=C0C0C0&dates=888888&stroke=1a1a1a&currStreakNum=C0C0C0&sideNums=C0C0C0" />
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=i-am-paradox&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=006622&stroke=003300" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/i-am-paradox/i-am-paradox/output/github-snake-dark.svg" alt="contribution snake animation" width="95%" />
+<img src="https://raw.githubusercontent.com/i-am-paradox/i-am-paradox/output/github-snake-dark.svg" alt="contribution snake" width="93%" />
 
 </div>
 
-<br/>
-
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
+
+```text
+┌─(paradox@github)─────────────────────────────────────────┐
+│                                                           │
+│  $ exit                                                   │
+│  > session terminated. math never stops.                  │
+│                                                           │
+│  ⚠ coordinated disclosure only · legit research            │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-$$\large \forall\, \text{problems} \;\; \exists\, \text{solutions} \;\; \in \;\; \text{my mind}$$
-
-<br/>
-
-<sub>⚠️ All security work is legitimate research & coordinated disclosure only.</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:b8860b,60:daa520,100:0a0a0a&height=100&section=footer" width="100%"/>
+<a href="https://github.com/i-am-paradox">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=25&lines=%5B%2B%5D+whoami%3F+break+systems.+prove+it.+rebuild+it.%3B%5B%2B%5D+math+is+the+exploit.+i+am+the+proof." />
+</a>
 
 </div>
