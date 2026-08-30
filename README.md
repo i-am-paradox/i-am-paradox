@@ -142,12 +142,7 @@ stack:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=i-am-paradox&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=daa520&icon_color=b8860b&text_color=c0c0c0&ring_color=daa520" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=i-am-paradox&hide_border=true&background=0A0A0A&ring=DAA520&fire=B8860B&currStreakLabel=DAA520&sideLabels=C0C0C0&dates=888888&stroke=1a1a1a&currStreakNum=C0C0C0&sideNums=C0C0C0" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=i-am-paradox&bg_color=0a0a0a&color=c0c0c0&line=daa520&point=b8860b&area_color=1a1a1a&area=true&hide_border=true&custom_title=contribution+heatmap+%F0%9F%94%A5" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=i-am-paradox&hide_border=true&background=0A0A0A&ring=DAA520&fire=B8860B&currStreakLabel=DAA520&sideLabels=C0C0C0&dates=888888&stroke=1a1a1a&currStreakNum=C0C0C0&sideNums=C0C0C0&currStreakNum=C0C0C0" />
 
 </div>
 
