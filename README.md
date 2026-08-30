@@ -12,7 +12,7 @@
 
 <a href="https://github.com/i-am-paradox?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%90%9B_Repos-28%2B-daa520?style=for-the-badge&labelColor=0a0a0a" /></a>
 <img src="https://img.shields.io/badge/%F0%9F%93%B1_Play_Store-Published-1a1a1a?style=for-the-badge&logo=googleplay&logoColor=daa520&labelColor=0a0a0a" />
-<a href="https://github.com/i-am-paradox?tab=followers"><img src="https://img.shilies.com/github/followers/i-am-paradox?style=for-the-badge&color=b8860b&labelColor=0a0a0a" /></a>
+<a href="https://github.com/i-am-paradox?tab=followers"><img src="https://img.shields.io/github/followers/i-am-paradox?style=for-the-badge&color=b8860b&labelColor=0a0a0a" /></a>
 <img src="https://komarev.com/ghpvc/?username=i-am-paradox&style=for-the-badge&color=daa520&labelColor=0a0a0a&label=VIEWS" />
 
 </div>
