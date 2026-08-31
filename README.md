@@ -19,12 +19,14 @@
  ╚═╝     ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝
 ```
 
+### **सिस्टम तोड़ो। साबित करो। दोबारा बनाओ।**
+
 </div>
 
 <div align="center">
 
 <a href="https://github.com/i-am-paradox">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=30&lines=%3E+identity+loaded+%E2%9C%93;%3E+mathematician+%7C+breaker+%7C+builder+%3B%3B%3B%3E+security+researcher+by+obsession+%3B%3B%3B%3E+systems+engineer+by+profession+%3B%3B%3B" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=30&lines=%3E+namaste+%F0%9F%99%8F+main+paradox+hoon%3B%3E+mathematician+%7C+breaker+%7C+builder%3B%3E+math+hi+sabse+bada+exploit+hai" />
 </a>
 
 <br/>
@@ -41,14 +43,14 @@
 <!-- ═══════════════════ TERMINAL: WHOAMI ═══════════════════ -->
 
 ```
-┌─(paradox@github)─────────────────────────────────────────┐
-│                                                           │
-│  $ whoami                                                 │
-│  > mathematician turned security researcher.             │
-│  > i break systems with proofs, not luck.                 │
-│  > then i rebuild them — better.                          │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+┌─(paradox@github)─────────────────────────────────────────
+│
+│  $ whoami
+│  > ek mathematician — jo security researcher ban gaya.
+│  > systems todta hoon: proofs ke saath, luck ke bina.
+│  > phir unhe usse behtar banake chhod deta hoon.
+│
+└───────────────────────────────────────────────────────────
 ```
 
 <table>
@@ -65,7 +67,7 @@ focus:
   - mobile app analysis
   - llm red teaming
 platform: [burp, kali, frida, ghidra, nuclei]
-status: hunting on hackerone
+status: hackerone pe active
 ```
 
 $$\forall\, S \in \text{Systems},\ \exists\, v : \mathbb{P}[\text{exploit}(v)] > 0$$
@@ -82,7 +84,7 @@ stack:
   mobile: flutter
   backend: [nestjs, firebase, flask]
   web: [astro, react, three.js]
-status: shipping real products
+status: real products ship karta hoon
 ```
 
 $$\lim_{n \to \infty} \frac{F_{n+1}}{F_n} = \phi \approx 1.618$$
@@ -94,40 +96,39 @@ $$\lim_{n \to \infty} \frac{F_{n+1}}{F_n} = \phi \approx 1.618$$
 <!-- ═══════════════════ TERMINAL: MATH ENGINE ═══════════════════ -->
 
 ```
-┌─(paradox@github)─────────────────────────────────────────┐
-│                                                           │
-│  $ sudo ./math_engine --run                               │
-│  > [OK] number theory ............ loaded                 │
-│  > [OK] cryptography ............ loaded                 │
-│  > [OK] graph theory ............. loaded                 │
-│  > [OK] bayesian inference ....... loaded                 │
-│  > [OK] optimization ............. loaded                 │
-│  > [WARN] collatz conjecture ..... UNSOLVED since 1937    │
-│  > [WARN] millennium problems .... $7,000,000 unclaimed   │
-│  > [OK] the golden ratio ........ φ = 1.6180339887        │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+┌─(paradox@github)─────────────────────────────────────────
+│
+│  $ sudo ./math_engine --run
+│  > [OK] number theory ......... loaded
+│  > [OK] cryptography ........... loaded
+│  > [OK] graph theory ........... loaded
+│  > [OK] bayesian inference ..... loaded
+│  > [WARN] collatz conjecture ... 89 saal se unsolved
+│  > [WARN] millennium problems .. $7M ab tak kisi ke nahi
+│  > [OK] golden ratio ........... φ = 1.6180339887
+│
+└───────────────────────────────────────────────────────────
 ```
 
 <div align="center">
 
-$$e^{i\pi} + 1 = 0 \qquad \text{and} \qquad \mathbb{P}(\text{paradox}) = \left\{ x \;\middle|\; \text{Math}(x) \wedge \text{Hack}(x) \right\}$$
+$$e^{i\pi} + 1 = 0 \qquad \text{aur} \qquad \mathbb{P}(\text{paradox}) = \left\{ x \;\middle|\; \text{Math}(x) \wedge \text{Hack}(x) \right\}$$
 
 </div>
 
 <!-- ═══════════════════ TERMINAL: SHIPPED ═══════════════════ -->
 
 ```
-┌─(paradox@github)─────────────────────────────────────────┐
-│                                                           │
-│  $ ls -la ~/shipped/                                      │
-│  drwxr-xr-x  apex_finance    → LIVE on Google Play        │
-│  drwxr-xr-x  ping-me         → E2E encrypted messenger    │
-│  drwxr-xr-x  forever_fdn     → charity platform @ nestjs   │
-│  drwxr-xr-x  shenzhen_labs   → TON mini app @ telegram     │
-│  -rwxr-xr-x  math_engine     → always running              │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+┌─(paradox@github)─────────────────────────────────────────
+│
+│  $ ls -la ~/shipped/
+│  drwxr-xr-x  apex_finance    → Google Play pe LIVE
+│  drwxr-xr-x  ping-me         → E2E encrypted messenger
+│  drwxr-xr-x  forever_fdn     → charity platform · nestjs
+│  drwxr-xr-x  shenzhen_labs   → TON telegram mini app
+│  -rwxr-xr-x  math_engine     → hamesha ON, kabhi off nahi
+│
+└───────────────────────────────────────────────────────────
 ```
 
 <div align="center">
@@ -172,11 +173,11 @@ $$e^{i\pi} + 1 = 0 \qquad \text{and} \qquad \mathbb{P}(\text{paradox}) = \left\{
 <!-- ═══════════════════ TERMINAL: STATS ═══════════════════ -->
 
 ```
-┌─(paradox@github)─────────────────────────────────────────┐
-│                                                           │
-│  $ ./contribution_metrics --render                        │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+┌─(paradox@github)─────────────────────────────────────────
+│
+│  $ ./contribution_metrics --render
+│
+└───────────────────────────────────────────────────────────
 ```
 
 <div align="center">
@@ -191,21 +192,22 @@ $$e^{i\pi} + 1 = 0 \qquad \text{and} \qquad \mathbb{P}(\text{paradox}) = \left\{
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
-```text
-┌─(paradox@github)─────────────────────────────────────────┐
-│                                                           │
-│  $ exit                                                   │
-│  > session terminated. math never stops.                  │
-│                                                           │
-│  ⚠ coordinated disclosure only · legit research            │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+```
+┌─(paradox@github)─────────────────────────────────────────
+│
+│  $ exit
+│  > session band ho gaya — math kabhi nahi rukta.
+│  > shukriya. phir milenge 🙏
+│
+│  ⚠ coordinated disclosure only · legit research
+│
+└───────────────────────────────────────────────────────────
 ```
 
 <div align="center">
 
 <a href="https://github.com/i-am-paradox">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=25&lines=%5B%2B%5D+whoami%3F+break+systems.+prove+it.+rebuild+it.%3B%5B%2B%5D+math+is+the+exploit.+i+am+the+proof." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=25&lines=%5B%2B%5D+todo+%E2%86%92+sabit+karo+%E2%86%92+dubara+banao%3B%5B%2B%5D+math+hi+exploit+hai.+main+proof+hoon." />
 </a>
 
 </div>
