@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://github.com/i-am-paradox">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=30&pause=100000&color=00FF41&center=true&vCenter=true&width=730&height=20&lines=%5B%2B%5D+paradox%40github%3A~%24+ssh+paradox%40i-am-paradox.dev" />
+<a href="https://i-am-paradox.github.io/aniwebiste/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=30&pause=100000&color=00FF41&center=true&vCenter=true&width=730&height=20&lines=%5B%2B%5D+paradox%40github%3A~%24+open+portfolio+%E2%86%92+live+on+github+pages" />
 </a>
 
 </div>
@@ -29,7 +29,8 @@
 
 <br/>
 
-<a href="https://github.com/i-am-paradox?tab=repositories"><img src="https://img.shields.io/badge/%3E_repos-28%2B-0a0a0a?style=for-the-badge&labelColor=000000&color=00FF41" /></a>
+<a href="https://i-am-paradox.github.io/aniwebiste/"><img src="https://img.shields.io/badge/%3E_portfolio-LIVE-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=00FF41" /></a>
+<a href="https://github.com/i-am-paradox?tab=repositories"><img src="https://img.shields.io/badge/%3E_repos-19-0a0a0a?style=for-the-badge&labelColor=000000&color=00FF41" /></a>
 <img src="https://img.shields.io/badge/%3E_play_store-PUBLISHED-0a0a0a?style=for-the-badge&logo=googleplay&logoColor=00FF41&labelColor=000000&color=00FF41" />
 <img src="https://img.shields.io/badge/%3E_bug_bounty-ACTIVE-0a0a0a?style=for-the-badge&logo=hackerone&logoColor=00FF41&labelColor=000000&color=00FF41" />
 <img src="https://komarev.com/ghpvc/?username=i-am-paradox&style=for-the-badge&color=00FF41&labelColor=000000&label=%3E_views" />
@@ -41,14 +42,14 @@
 <!-- ═══════════════════ TERMINAL: WHOAMI ═══════════════════ -->
 
 ```
-┌─(paradox@github)─────────────────────────────────────────┐
-│                                                           │
-│  $ whoami                                                 │
-│  > mathematician turned security researcher.             │
-│  > i break systems with proofs, not luck.                 │
-│  > then i rebuild them — better.                          │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+┌─(paradox@github)──────────────────────────────┐
+│                                               │
+│  $ whoami                                     │
+│  > mathematician turned security researcher.  │
+│  > i break systems with proofs, not luck.     │
+│  > then i rebuild them — better.              │
+│                                               │
+└───────────────────────────────────────────────┘
 ```
 
 <table>
@@ -94,19 +95,19 @@ $$\lim_{n \to \infty} \frac{F_{n+1}}{F_n} = \phi \approx 1.618$$
 <!-- ═══════════════════ TERMINAL: MATH ENGINE ═══════════════════ -->
 
 ```
-┌─(paradox@github)─────────────────────────────────────────┐
-│                                                           │
-│  $ sudo ./math_engine --run                               │
-│  > [OK] number theory ............ loaded                 │
-│  > [OK] cryptography ............ loaded                 │
-│  > [OK] graph theory ............. loaded                 │
-│  > [OK] bayesian inference ....... loaded                 │
-│  > [OK] optimization ............. loaded                 │
-│  > [WARN] collatz conjecture ..... UNSOLVED since 1937    │
-│  > [WARN] millennium problems .... $7,000,000 unclaimed   │
-│  > [OK] the golden ratio ........ φ = 1.6180339887        │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+┌─(paradox@github)───────────────────────────────────────┐
+│                                                        │
+│  $ sudo ./math_engine --run                            │
+│  > [OK]   number theory ......... loaded               │
+│  > [OK]   cryptography ......... loaded                │
+│  > [OK]   graph theory ......... loaded                │
+│  > [OK]   bayesian inference ... loaded                │
+│  > [OK]   optimization ........ loaded                 │
+│  > [WARN] collatz conjecture ... UNSOLVED since 1937   │
+│  > [WARN] millennium problems .. $7,000,000 unclaimed  │
+│  > [OK]   the golden ratio ..... φ = 1.6180339887      │
+│                                                        │
+└────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -118,14 +119,14 @@ $$e^{i\pi} + 1 = 0 \qquad \text{and} \qquad \mathbb{P}(\text{paradox}) = \left\{
 <!-- ═══════════════════ TERMINAL: SHIPPED ═══════════════════ -->
 
 ```
-┌─(paradox@github)─────────────────────────────────────────┐
+┌─(paradox@github)──────────────────────────────────────────┐
 │                                                           │
 │  $ ls -la ~/shipped/                                      │
-│  drwxr-xr-x  apex_finance    → LIVE on Google Play        │
-│  drwxr-xr-x  ping-me         → E2E encrypted messenger    │
-│  drwxr-xr-x  forever_fdn     → charity platform @ nestjs   │
-│  drwxr-xr-x  shenzhen_labs   → TON mini app @ telegram     │
-│  -rwxr-xr-x  math_engine     → always running              │
+│  drwxr-xr-x  apex_finance   →  LIVE on Google Play        │
+│  drwxr-xr-x  ping-me        →  E2E encrypted messenger    │
+│  drwxr-xr-x  forever_fdn    →  charity platform @ nestjs  │
+│  drwxr-xr-x  shenzhen_labs  →  TON mini app @ telegram    │
+│  -rwxr-xr-x  math_engine    →  always running             │
 │                                                           │
 └───────────────────────────────────────────────────────────┘
 ```
@@ -172,16 +173,16 @@ $$e^{i\pi} + 1 = 0 \qquad \text{and} \qquad \mathbb{P}(\text{paradox}) = \left\{
 <!-- ═══════════════════ TERMINAL: STATS ═══════════════════ -->
 
 ```
-┌─(paradox@github)─────────────────────────────────────────┐
-│                                                           │
-│  $ ./contribution_metrics --render                        │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+┌─(paradox@github)────────────────────┐
+│                                     │
+│  $ ./contribution_metrics --render  │
+│                                     │
+└─────────────────────────────────────┘
 ```
 
 <div align="center">
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=i-am-paradox&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=006622&stroke=003300" />
+<img width="68%" src="https://streak-stats.demolab.com?user=i-am-paradox&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=006622&stroke=003300" />
 
 <br/><br/>
 
@@ -191,15 +192,15 @@ $$e^{i\pi} + 1 = 0 \qquad \text{and} \qquad \mathbb{P}(\text{paradox}) = \left\{
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
-```text
-┌─(paradox@github)─────────────────────────────────────────┐
-│                                                           │
-│  $ exit                                                   │
-│  > session terminated. math never stops.                  │
-│                                                           │
-│  ⚠ coordinated disclosure only · legit research            │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+```
+┌─(paradox@github)───────────────────────────────────┐
+│                                                    │
+│  $ exit                                            │
+│  > session terminated. math never stops.           │
+│                                                    │
+│  [!] coordinated disclosure only · legit research  │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
