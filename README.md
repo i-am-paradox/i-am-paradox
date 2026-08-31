@@ -1,5 +1,11 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=110&section=header&text=%20&fontSize=0" alt="wave" />
+
+</div>
+
+<div align="center">
+
 <a href="https://i-am-paradox.github.io/aniwebiste/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=30&pause=100000&color=00FF41&center=true&vCenter=true&width=730&height=20&lines=%5B%2B%5D+paradox%40github%3A~%24+open+portfolio+%E2%86%92+live+on+github+pages" />
 </a>
@@ -92,6 +98,25 @@ $$\lim_{n \to \infty} \frac{F_{n+1}}{F_n} = \phi \approx 1.618$$
 </tr>
 </table>
 
+<!-- ═══════════════════ TECH STACK: LOADED MODULES ═══════════════════ -->
+
+```
+┌─(paradox@github)─────────────────────────────────────────┐
+│                                                          │
+│  $ ls /usr/lib/skills/                                   │
+│  > 14 modules loaded · 0 warnings · 0 abandoned          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust,python,dart,cpp,ts,astro,react,threejs,nestjs,firebase,latex,linux,git,github&theme=dark" alt="skills" width="85%" />
+</a>
+
+</div>
+
 <!-- ═══════════════════ TERMINAL: MATH ENGINE ═══════════════════ -->
 
 ```
@@ -182,6 +207,24 @@ $$e^{i\pi} + 1 = 0 \qquad \text{and} \qquad \mathbb{P}(\text{paradox}) = \left\{
 
 <div align="center">
 
+<a href="https://github.com/i-am-paradox">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-am-paradox&theme=chartreuse-dark" width="92%" alt="profile stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/i-am-paradox">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-am-paradox&theme=chartreuse-dark" width="42%" alt="stats" />
+</a>
+<a href="https://github.com/i-am-paradox">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-am-paradox&theme=chartreuse-dark" width="42%" alt="languages" />
+</a>
+
+<br/><br/>
+
+<div align="center">
+
+
 <img width="68%" src="https://streak-stats.demolab.com?user=i-am-paradox&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=006622&stroke=003300" />
 
 <br/><br/>
@@ -208,5 +251,11 @@ $$e^{i\pi} + 1 = 0 \qquad \text{and} \qquad \mathbb{P}(\text{paradox}) = \left\{
 <a href="https://github.com/i-am-paradox">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=25&lines=%5B%2B%5D+whoami%3F+break+systems.+prove+it.+rebuild+it.%3B%5B%2B%5D+math+is+the+exploit.+i+am+the+proof." />
 </a>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:000000&height=110&section=footer&text=%20&fontSize=0" alt="wave footer" />
 
 </div>
