@@ -195,6 +195,45 @@ $$e^{i\pi} + 1 = 0 \qquad \text{and} \qquad \mathbb{P}(\text{paradox}) = \left\{
 </table>
 </div>
 
+<!-- ═══════════════════ TERMINAL: OSS ═══════════════════ -->
+
+```
+┌─(paradox@github)────────────────────┐
+│                                     │
+│  $ ./open_source --merged --open    │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/stdlib-js/stdlib">
+<img src="https://img.shields.io/badge/stdlib.js-5.9k%20%E2%98%85-2B2D42?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=000000&color=00FF41" />
+</a><br/>
+<sub>merged: docs link fix</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Kozea/WeasyPrint/pull/2904">
+<img src="https://img.shields.io/badge/WeasyPrint-9.5k%20%E2%98%85-2B2D42?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000&color=00FF41" />
+</a><br/>
+<sub>open: CSS text-emphasis</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/ChelseaKR/tods-validate/pull/175">
+<img src="https://img.shields.io/badge/tods--validate-rule%20TODS--W109-2B2D42?style=for-the-badge&logo=gtfs&logoColor=00FF41&labelColor=000000&color=00FF41" />
+</a><br/>
+<sub>open: new validation rule</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <!-- ═══════════════════ TERMINAL: STATS ═══════════════════ -->
 
 ```
