@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05080f"/>
+      <stop offset="50%" stop-color="#090e17"/>
+      <stop offset="100%" stop-color="#04060a"/>
+    </linearGradient>
+
+    <!-- Neon Accents -->
+    <linearGradient id="neonGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF66"/>
+      <stop offset="50%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#00FF66"/>
+    </linearGradient>
+
+    <linearGradient id="lineGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF66" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#00FF66" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="1"/>
+      <stop offset="75%" stop-color="#00FF66" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00FF66" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#00FF66" stop-opacity="0.12"/>
+      <stop offset="60%" stop-color="#00F0FF" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#05080f" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="cornerGlowLeft" cx="10%" cy="20%" r="40%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#05080f" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid Pattern -->
+    <pattern id="cyberGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#162638" stroke-width="0.75" stroke-opacity="0.4"/>
+      <circle cx="30" cy="0" r="0.8" fill="#00FF66" fill-opacity="0.3"/>
+    </pattern>
+
+    <pattern id="dotMatrix" width="15" height="15" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.6" fill="#00F0FF" fill-opacity="0.15"/>
+    </pattern>
+  </defs>
+
+  <style>
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.9; }
+      50% { opacity: 0.5; }
+    }
+    @keyframes blinkCursor {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes scanTrace {
+      0% { transform: translateX(-1000px); }
+      100% { transform: translateX(1000px); }
+    }
+    .pulsing { animation: pulseGlow 3s ease-in-out infinite; }
+    .blinking { animation: blinkCursor 1s step-end infinite; }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, monospace; }
+    .title-font { font-family: 'Orbitron', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; letter-spacing: 12px; }
+  </style>
+
+  <!-- Main Container -->
+  <rect width="1000" height="320" rx="16" fill="url(#bgGrad)" stroke="#1f2d3d" stroke-width="1.5"/>
+
+  <!-- Grid Overlays -->
+  <rect width="1000" height="320" rx="16" fill="url(#cyberGrid)"/>
+  <rect width="1000" height="320" rx="16" fill="url(#dotMatrix)"/>
+
+  <!-- Ambient Light Fields -->
+  <rect width="1000" height="320" rx="16" fill="url(#centerGlow)"/>
+  <rect width="1000" height="320" rx="16" fill="url(#cornerGlowLeft)"/>
+
+  <!-- Geometric Circuit Accents -->
+  <g stroke="#00FF66" stroke-opacity="0.25" stroke-width="1" fill="none">
+    <path d="M 40 70 L 120 70 L 140 90 L 260 90"/>
+    <circle cx="260" cy="90" r="2.5" fill="#00FF66" fill-opacity="0.5"/>
+
+    <path d="M 960 70 L 880 70 L 860 90 L 740 90"/>
+    <circle cx="740" cy="90" r="2.5" fill="#00F0FF" fill-opacity="0.5"/>
+
+    <path d="M 40 250 L 120 250 L 140 230 L 240 230"/>
+    <circle cx="240" cy="230" r="2.5" fill="#00FF66" fill-opacity="0.5"/>
+
+    <path d="M 960 250 L 880 250 L 860 230 L 760 230"/>
+    <circle cx="760" cy="230" r="2.5" fill="#00F0FF" fill-opacity="0.5"/>
+  </g>
+
+  <!-- Precision Corner HUD Brackets -->
+  <g stroke="#00FF66" stroke-width="2" fill="none" opacity="0.8">
+    <!-- Top-Left -->
+    <path d="M 24 45 L 24 24 L 45 24"/>
+    <rect x="20" y="20" width="3" height="3" fill="#00FF66"/>
+    <!-- Top-Right -->
+    <path d="M 976 45 L 976 24 L 955 24"/>
+    <rect x="977" y="20" width="3" height="3" fill="#00FF66"/>
+    <!-- Bottom-Left -->
+    <path d="M 24 275 L 24 296 L 45 296"/>
+    <rect x="20" y="297" width="3" height="3" fill="#00FF66"/>
+    <!-- Bottom-Right -->
+    <path d="M 976 275 L 976 296 L 955 296"/>
+    <rect x="977" y="297" width="3" height="3" fill="#00FF66"/>
+  </g>
+
+  <!-- Top Metadata Bar -->
+  <g class="mono" font-size="11" letter-spacing="1">
+    <text x="40" y="44" fill="#00FF66" opacity="0.85" font-weight="700">
+      SYS://PARADOX_KERNEL <tspan fill="#486581">[v4.2.0-RELEASE]</tspan>
+    </text>
+    <text x="500" y="44" fill="#00F0FF" opacity="0.8" text-anchor="middle">
+      <tspan fill="#00FF66">●</tspan> STATUS: ARMED // 0-DAY RESEARCH &amp; SYSTEMS CRAFT
+    </text>
+    <text x="960" y="44" fill="#627D98" opacity="0.9" text-anchor="end">
+      HEX: <tspan fill="#00FF66">0x70 0x61 0x72 0x61 0x64 0x6F 0x78</tspan>
+    </text>
+  </g>
+
+  <!-- Center Decorative Glow Line -->
+  <line x1="150" y1="58" x2="850" y2="58" stroke="url(#lineGlow)" stroke-width="1.2" opacity="0.5"/>
+
+  <!-- Subtitle Tag: Proof & Code -->
+  <g class="mono" font-size="11" fill="#486581" letter-spacing="2">
+    <text x="500" y="105" text-anchor="middle">
+      <tspan fill="#00FF66" opacity="0.8">[</tspan> ∀S ∈ SYSTEMS, ∃v : ℙ[EXPLOIT(v)] &gt; 0 <tspan fill="#00FF66" opacity="0.8">]</tspan>
+    </text>
+  </g>
+
+  <!-- MAIN TITLE: PARADOX -->
+  <g filter="url(#glow)">
+    <text x="500" y="172" text-anchor="middle" class="title-font" font-size="64" fill="url(#neonGreen)">
+      PARADOX
+    </text>
+  </g>
+  <!-- Foreground Crisp Text -->
+  <text x="500" y="172" text-anchor="middle" class="title-font" font-size="64" fill="#FFFFFF">
+    PARADOX
+  </text>
+
+  <!-- Identity Subheading -->
+  <g class="mono" font-size="13" font-weight="700" letter-spacing="4" fill="#00F0FF" filter="url(#subtleGlow)">
+    <text x="500" y="212" text-anchor="middle">
+      MATHEMATICIAN <tspan fill="#00FF66">•</tspan> OFFENSIVE SECURITY <tspan fill="#00FF66">•</tspan> SYSTEMS ARCHITECT
+    </text>
+  </g>
+
+  <!-- Pill Badge: Cyber Status -->
+  <g transform="translate(340, 230)">
+    <rect x="0" y="0" width="320" height="26" rx="13" fill="#0c1622" stroke="#00FF66" stroke-width="1" stroke-opacity="0.4"/>
+    <circle cx="16" cy="13" r="4" fill="#00FF66" class="pulsing"/>
+    <text x="32" y="17" class="mono" font-size="10.5" font-weight="700" fill="#E2E8F0" letter-spacing="1.5">
+      BREAK WITH PROOF <tspan fill="#00FF66">|</tspan> REBUILD WITH RUST
+    </text>
+  </g>
+
+  <!-- Bottom Coordinates & System Telemetry -->
+  <line x1="150" y1="272" x2="850" y2="272" stroke="url(#lineGlow)" stroke-width="1.2" opacity="0.5"/>
+
+  <g class="mono" font-size="10.5" letter-spacing="1">
+    <text x="40" y="292" fill="#627D98">
+      LOC: <tspan fill="#E2E8F0">INDIA [28.6139° N, 77.2090° E]</tspan>
+    </text>
+    <text x="500" y="292" fill="#627D98" text-anchor="middle">
+      STACK: <tspan fill="#00FF66">RUST</tspan> · <tspan fill="#00F0FF">C++</tspan> · <tspan fill="#00FF66">PYTHON</tspan> · <tspan fill="#00F0FF">FLUTTER</tspan> · <tspan fill="#00FF66">BURP/KALI</tspan>
+    </text>
+    <text x="960" y="292" fill="#627D98" text-anchor="end">
+      COORDINATED DISCLOSURE <tspan fill="#00FF66" class="blinking">_</tspan>
+    </text>
+  </g>
+</svg>
