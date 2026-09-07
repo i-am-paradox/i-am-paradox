@@ -1,41 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 290" width="100%" height="100%">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bgCanvas" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#070A10"/>
-      <stop offset="50%" stop-color="#0B0F19"/>
-      <stop offset="100%" stop-color="#05080E"/>
+    <!-- Background Velvet Deep Palette -->
+    <linearGradient id="bgVelvet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080D1A"/>
+      <stop offset="50%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#0A0E17"/>
     </linearGradient>
 
-    <!-- Refined Jewel Neon Accents -->
-    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#10B981"/>
-      <stop offset="50%" stop-color="#06B6D4"/>
-      <stop offset="100%" stop-color="#3B82F6"/>
-    </linearGradient>
-
-    <linearGradient id="subtleLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#10B981" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#10B981" stop-opacity="0.4"/>
-      <stop offset="70%" stop-color="#06B6D4" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
-    </linearGradient>
-
-    <!-- Radial Lighting -->
-    <radialGradient id="ambientCenter" cx="50%" cy="40%" r="55%">
-      <stop offset="0%" stop-color="#10B981" stop-opacity="0.08"/>
-      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.03"/>
-      <stop offset="100%" stop-color="#070A10" stop-opacity="0"/>
+    <!-- Aurora Lights Gradients -->
+    <radialGradient id="auroraEmerald" cx="25%" cy="35%" r="55%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.22"/>
+      <stop offset="50%" stop-color="#059669" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#080D1A" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Subtle Dot Grid Pattern -->
-    <pattern id="dotGrid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="0.8" fill="#1E293B" fill-opacity="0.6"/>
-    </pattern>
+    <radialGradient id="auroraCyan" cx="75%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.20"/>
+      <stop offset="50%" stop-color="#0284C7" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#080D1A" stop-opacity="0"/>
+    </radialGradient>
 
-    <!-- Subtle Glow Filter -->
-    <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
+    <radialGradient id="auroraViolet" cx="50%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#080D1A" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Refined Text Gradient (Soft Silver to Pearl Cyan) -->
+    <linearGradient id="titleShine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="35%" stop-color="#E2E8F0"/>
+      <stop offset="70%" stop-color="#99F6E4"/>
+      <stop offset="100%" stop-color="#BAE6FD"/>
+    </linearGradient>
+
+    <!-- Subtle Calming Line Divider -->
+    <linearGradient id="softDivider" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#34D399" stop-opacity="0.3"/>
+      <stop offset="70%" stop-color="#38BDF8" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Soft Ambient Blur -->
+    <filter id="gentleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -44,81 +52,70 @@
   </defs>
 
   <style>
-    @keyframes pulseLive {
-      0%, 100% { opacity: 1; transform: scale(1); }
-      50% { opacity: 0.4; transform: scale(0.92); }
+    @keyframes gentlePulse {
+      0%, 100% { opacity: 0.85; }
+      50% { opacity: 0.45; }
     }
-    .pulse-dot { animation: pulseLive 2.5s ease-in-out infinite; transform-origin: 500px 36px; }
-    .mono { font-family: ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Fira Code', Menlo, monospace; }
-    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', Helvetica, sans-serif; }
+    .zen-pulse { animation: gentlePulse 3.5s ease-in-out infinite; }
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, monospace; }
   </style>
 
-  <!-- Container Box -->
-  <rect width="1000" height="280" rx="14" fill="url(#bgCanvas)" stroke="#1E293B" stroke-width="1.2"/>
+  <!-- Canvas Container with Soft Border -->
+  <rect width="1000" height="290" rx="18" fill="url(#bgVelvet)" stroke="#1E293B" stroke-width="1"/>
 
-  <!-- Tech Dot Grid Overlay -->
-  <rect width="1000" height="280" rx="14" fill="url(#dotGrid)"/>
-  <rect width="1000" height="280" rx="14" fill="url(#ambientCenter)"/>
+  <!-- Soothing Ambient Auroras -->
+  <rect width="1000" height="290" rx="18" fill="url(#auroraEmerald)"/>
+  <rect width="1000" height="290" rx="18" fill="url(#auroraCyan)"/>
+  <rect width="1000" height="290" rx="18" fill="url(#auroraViolet)"/>
 
-  <!-- Top Status Pill -->
-  <g transform="translate(340, 24)">
-    <rect x="0" y="0" width="320" height="24" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-    <circle cx="16" cy="12" r="3.5" fill="#10B981" class="pulse-dot"/>
-    <text x="28" y="15.5" class="mono" font-size="10" font-weight="600" fill="#94A3B8" letter-spacing="1">
-      STATUS: <tspan fill="#F8FAFC">ACTIVE RESEARCH &amp; PRODUCTION</tspan>
+  <!-- Elegant Status Pill -->
+  <g transform="translate(365, 26)">
+    <rect x="0" y="0" width="270" height="26" rx="13" fill="#0F172A" fill-opacity="0.75" stroke="#334155" stroke-width="0.8"/>
+    <circle cx="16" cy="13" r="3.5" fill="#34D399" class="zen-pulse"/>
+    <text x="28" y="17" class="font-sans" font-size="10.5" font-weight="500" fill="#94A3B8" letter-spacing="1.2">
+      EXPLORING, PROVING &amp; CRAFTING
     </text>
   </g>
 
-  <!-- Clean Subtle Framing Accents -->
-  <path d="M 28 40 L 28 24 L 44 24" stroke="#334155" stroke-width="1.5" fill="none"/>
-  <path d="M 972 40 L 972 24 L 956 24" stroke="#334155" stroke-width="1.5" fill="none"/>
-  <path d="M 28 240 L 28 256 L 44 256" stroke="#334155" stroke-width="1.5" fill="none"/>
-  <path d="M 972 240 L 972 256 L 956 256" stroke="#334155" stroke-width="1.5" fill="none"/>
+  <!-- Ambient Top Subtle Divider -->
+  <line x1="140" y1="64" x2="860" y2="64" stroke="url(#softDivider)" stroke-width="1"/>
 
-  <!-- Top Corner Telemetry -->
-  <text x="44" y="38" class="mono" font-size="10.5" fill="#64748B" letter-spacing="0.5">
-    RESEARCH PROTOCOL // <tspan fill="#94A3B8">0x50415241444F58</tspan>
-  </text>
-  <text x="956" y="38" class="mono" font-size="10.5" fill="#64748B" letter-spacing="0.5" text-anchor="end">
-    INDIA // <tspan fill="#94A3B8">UTC +05:30</tspan>
+  <!-- Mathematical Invariant Monogram (Subtle Watermark in Background) -->
+  <text x="500" y="105" text-anchor="middle" class="font-mono" font-size="12" fill="#475569" fill-opacity="0.5" letter-spacing="2">
+    e^{i\pi} + 1 = 0  ·  \mathbb{P}(\text{truth}) = 1
   </text>
 
-  <!-- Accent Divider Line -->
-  <line x1="120" y1="58" x2="880" y2="58" stroke="url(#subtleLine)" stroke-width="1"/>
-
-  <!-- Main Hero Brand Name -->
-  <g filter="url(#textGlow)">
-    <text x="500" y="142" text-anchor="middle" class="sans" font-weight="900" font-size="54" letter-spacing="8" fill="url(#brandGradient)">
+  <!-- Main Hero Brand Title: PARADOX -->
+  <g filter="url(#gentleGlow)">
+    <text x="500" y="162" text-anchor="middle" class="font-sans" font-weight="800" font-size="52" letter-spacing="10" fill="url(#titleShine)">
       PARADOX
     </text>
   </g>
-  <text x="500" y="142" text-anchor="middle" class="sans" font-weight="900" font-size="54" letter-spacing="8" fill="#F8FAFC">
-    PARADOX
+
+  <!-- Refined Calming Subhead -->
+  <text x="500" y="198" text-anchor="middle" class="font-sans" font-size="14" font-weight="500" fill="#CBD5E1" letter-spacing="3">
+    MATHEMATICS <tspan fill="#34D399">•</tspan> SECURITY RESEARCH <tspan fill="#38BDF8">•</tspan> SYSTEMS CRAFT
   </text>
 
-  <!-- Professional Subtitle -->
-  <text x="500" y="180" text-anchor="middle" class="sans" font-size="13.5" font-weight="600" fill="#94A3B8" letter-spacing="3.5">
-    SECURITY RESEARCHER <tspan fill="#10B981">•</tspan> SYSTEMS ARCHITECT <tspan fill="#06B6D4">•</tspan> APPLIED MATHEMATICIAN
+  <!-- Gentle Philosophy -->
+  <text x="500" y="224" text-anchor="middle" class="font-sans" font-size="12" fill="#64748B" letter-spacing="0.8">
+    "Simplicity is the prerequisite for reliability. Clarity is the foundation of security."
   </text>
 
-  <!-- Core Research Motto -->
-  <text x="500" y="206" text-anchor="middle" class="mono" font-size="11" fill="#64748B" letter-spacing="1">
-    Formal verification of vulnerability invariants · Low-latency memory-safe engineering
-  </text>
+  <!-- Ambient Bottom Divider -->
+  <line x1="140" y1="244" x2="860" y2="244" stroke="url(#softDivider)" stroke-width="1"/>
 
-  <!-- Bottom Divider Line -->
-  <line x1="120" y1="226" x2="880" y2="226" stroke="url(#subtleLine)" stroke-width="1"/>
-
-  <!-- Bottom Engineering Pillars -->
-  <g class="mono" font-size="10" fill="#64748B" letter-spacing="1">
-    <text x="44" y="248">
-      CORE: <tspan fill="#F8FAFC">RUST · C++ · PYTHON · GO · FLUTTER</tspan>
+  <!-- Clean Minimalist Footer Telemetry -->
+  <g class="font-mono" font-size="10" fill="#64748B" letter-spacing="1">
+    <text x="48" y="266">
+      FOUNDATION: <tspan fill="#94A3B8">RUST · C++ · PYTHON · GO</tspan>
     </text>
-    <text x="500" y="248" text-anchor="middle">
-      FOCUS: <tspan fill="#10B981">OFFSEC AUDITS</tspan> | <tspan fill="#06B6D4">CONCURRENCY</tspan> | <tspan fill="#3B82F6">CRYPTO</tspan>
+    <text x="500" y="266" text-anchor="middle">
+      <tspan fill="#34D399">RESPONSIBLE DISCLOSURE</tspan> · <tspan fill="#38BDF8">OPEN SOURCE</tspan>
     </text>
-    <text x="956" y="248" text-anchor="end">
-      POLICY: <tspan fill="#F8FAFC">COORDINATED DISCLOSURE</tspan>
+    <text x="952" y="266" text-anchor="end">
+      LOCATION: <tspan fill="#94A3B8">INDIA</tspan>
     </text>
   </g>
 </svg>
