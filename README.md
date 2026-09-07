@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/HackerOne-Security_Researcher-0F172A?style=for-the-badge&logo=hackerone&logoColor=34D399&labelColor=080D1A" alt="HackerOne" />
 </a>
 <a href="https://github.com/i-am-paradox?tab=repositories">
-  <img src="https://img.shields.io/badge/Ecosystem-24_Repositories-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=080D1A" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-Public_Creations-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=080D1A" alt="Repositories" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=i-am-paradox&style=for-the-badge&color=34D399&labelColor=080D1A&label=Visitors" alt="Visitors" />
 
@@ -78,70 +78,98 @@
 
 ---
 
-### 🛠️ Selected Works & Creations
+### 🛠️ Featured Repositories & Creations
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### 📱 [Apex Finance](https://play.google.com/store/apps/details?id=com.apex.apex_finance)
-**Production Consumer Financial Suite**
-- An intuitive personal finance manager published globally on the Google Play Store. Built with offline-first synchronization, local encryption, automated expense aggregation, and biometric security.
-- `Flutter` · `Firebase` · `Dart` · `Google Play Store`
-- [View on Google Play Store →](https://play.google.com/store/apps/details?id=com.apex.apex_finance)
+#### 🖐️ [stark-holographic-hud](https://github.com/i-am-paradox/stark-holographic-hud)
+**Spatial Computer Vision & Holographic HUD**
+- An interactive client-side 3D particle system driven by webcam skeletal hand tracking. Executes computer-vision models and WebGL particle shaders at a smooth 60fps directly in the browser with zero server roundtrip latency.
+- `Three.js` · `MediaPipe Hands` · `WebGL` · `JavaScript`
+- [Explore Repository →](https://github.com/i-am-paradox/stark-holographic-hud)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🪙 [Shenzhen Labs](https://github.com/i-am-paradox/shenzhen-frontend)
-**TON Web3 Tap-to-Earn Ecosystem**
+#### 🎬 [aniwebiste](https://github.com/i-am-paradox/aniwebiste)
+**Cinematic Scrollytelling & Motion Experience**
+- A physics-based scrollytelling web experience featuring smooth momentum scrolling, reactive Framer Motion physics, and spatial typography.
+- `TypeScript` · `Framer Motion` · `Lenis Scroll` · `TailwindCSS`
+- [Explore Repository →](https://github.com/i-am-paradox/aniwebiste) · [Live Demo ↗](https://i-am-paradox.github.io/aniwebiste/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🪙 [shenzhen-frontend](https://github.com/i-am-paradox/shenzhen-frontend)
+**TON Web3 Tap-to-Earn DApp & Mini App**
 - High-concurrency Web3 application on The Open Network (TON). Implements database row-level locking (`SELECT ... FOR UPDATE`) in PostgreSQL to eliminate concurrency balance exploits and race conditions.
 - `TON Blockchain` · `Telegram Mini App` · `Prisma` · `PostgreSQL`
 - [Explore Repository →](https://github.com/i-am-paradox/shenzhen-frontend)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-#### 💬 [Ping-Me](https://github.com/iq4u8/Ping-Me)
-**Signal Protocol E2E Encrypted Messenger**
-- A zero-knowledge private messaging client implementing Signal's Double Ratchet algorithm, triple Diffie-Hellman (3DH) key exchanges, and cryptographic forward secrecy for complete conversation privacy.
-- `Signal Protocol` · `Flutter` · `Dart` · `Applied Cryptography`
-- [Explore Repository →](https://github.com/iq4u8/Ping-Me)
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚡ [Stark Holographic HUD](https://github.com/i-am-paradox/stark-holographic-hud)
-**Spatial Computer Vision Interface**
-- Interactive client-side particle engine driven by webcam skeletal hand tracking. Executes computer-vision models and WebGL particle shaders at a smooth 60fps directly in the browser with zero server latency.
-- `Three.js` · `MediaPipe Hands` · `WebGL` · `JavaScript`
-- [Explore Repository →](https://github.com/i-am-paradox/stark-holographic-hud)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏥 [Forever Foundation Backend](https://github.com/i-am-paradox/forever-foundation-backend)
-**Mission-Critical Charity & Payment Infrastructure**
+#### 🏥 [forever-foundation-backend](https://github.com/i-am-paradox/forever-foundation-backend)
+**Enterprise Charity & Payment Infrastructure**
 - High-availability microservices backend for financial contributions. Features idempotent webhook processors, Auth0 role-based authorization, and distributed ACID transactions via CockroachDB.
 - `NestJS` · `TypeScript` · `CockroachDB` · `PhonePe Gateway`
 - [Explore Repository →](https://github.com/i-am-paradox/forever-foundation-backend)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-#### 📄 [Academic Typographic Resume](https://github.com/i-am-paradox/resume)
-**Open-Source Vector Resume Framework**
-- A thoughtfully designed LaTeX resume template featuring custom TikZ hexagonal competency radar graphs, fine typographic kerning, gentle gradients, and zero external font dependencies.
-- `LaTeX` · `TikZ` · `Vector Graphics` · `Open Source`
+#### ⚡ [paradox-finance-interface](https://github.com/i-am-paradox/paradox-finance-interface)
+**Stark-Tech Inspired Financial Dashboard UI**
+- A futuristic financial dashboard interface featuring holographic UI elements, automated deduction protocol visualizations, and custom dark aesthetics.
+- `HTML5` · `CSS3` · `JavaScript` · `Cyberpunk UI`
+- [Explore Repository →](https://github.com/i-am-paradox/paradox-finance-interface)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 [resume](https://github.com/i-am-paradox/resume)
+**Ultra-Premium Typographic LaTeX Resume**
+- A thoughtfully crafted open-source LaTeX resume template featuring custom TikZ hexagonal competency radar graphs, fine typographic kerning, gentle gradients, and zero external font dependencies.
+- `LaTeX` · `TikZ` · `Vector Graphics` · `Open Source` · ⭐ 1
 - [Explore Repository →](https://github.com/i-am-paradox/resume)
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎨 [sticker-TG](https://github.com/i-am-paradox/sticker-TG)
+**Telegram Sticker Pack Automation Engine**
+- Automated utility transforming any image to standard Telegram sticker specifications with automatic dimension resizing, format conversion, and in-memory caching.
+- `Python` · `python-telegram-bot` · `Pillow` · `Automation`
+- [Explore Repository →](https://github.com/i-am-paradox/sticker-TG)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛒 [digitalshop](https://github.com/i-am-paradox/digitalshop)
+**Digital Subscriptions Storefront & Checkout Flow**
+- Clean e-commerce storefront for digital products and subscriptions featuring secure user authentication, catalog management, and responsive checkout flow.
+- `PHP` · `MySQL` · `JavaScript` · `Responsive Design`
+- [Explore Repository →](https://github.com/i-am-paradox/digitalshop)
+
+</td>
+</tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+> 📱 **Published Mobile Showcase:** [Apex Finance on Google Play Store](https://play.google.com/store/apps/details?id=com.apex.apex_finance) — *Modern personal finance manager with Firebase Auth, local encryption & biometric security.*
+
+</div>
 
 ---
 
