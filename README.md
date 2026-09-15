@@ -1,29 +1,26 @@
 <div align="center">
 
-<!-- ═══════════════════ SOOTHING AURORA BANNER ═══════════════════ -->
-<img src="https://raw.githubusercontent.com/i-am-paradox/i-am-paradox/main/assets/banner.svg" alt="Paradox — Mathematics, Security Research, Systems Craft" width="100%" />
+<!-- ═══════════════════ AURORA BANNER ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/i-am-paradox/i-am-paradox/main/assets/banner.svg" alt="Paradox — Security Research & Systems Engineering" width="100%" />
 
 <br/><br/>
 
-<!-- ═══════════════════ TRANQUIL TYPING TERMINAL ═══════════════════ -->
+<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <a href="https://i-am-paradox.github.io/aniwebiste/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3200&pause=1500&color=38BDF8&center=true&vCenter=true&width=860&height=34&lines=Building+software+with+mathematical+clarity+%26+memory+safety.;Offensive+security+researcher+with+an+obsession+for+elegant+proofs.;Crafting+distributed+systems+in+Rust%2C+Go%2C+C%2B%2B+%26+Flutter.;%22Simplicity+is+the+prerequisite+for+reliability.%22+%E2%80%94+Dijkstra" alt="Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3200&pause=1500&color=38BDF8&center=true&vCenter=true&width=820&height=34&lines=Security+researcher+%7C+breaking+systems+with+proofs%2C+not+luck.;Published+app+on+Google+Play+%7C+OSS+contributor+to+5k%2B%E2%AD%90+projects.;Building+full-stack+systems+in+Python%2C+TypeScript%2C+Dart+%26+beyond." alt="Typing Headline" />
 </a>
 
 <br/>
 
-<!-- ═══════════════════ SOFT PILL BADGES ═══════════════════ -->
-<a href="https://i-am-paradox.github.io/aniwebiste/">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Demo-0F172A?style=for-the-badge&logo=googlechrome&logoColor=34D399&labelColor=080D1A" alt="Portfolio" />
-</a>
+<!-- ═══════════════════ BADGES ═══════════════════ -->
 <a href="https://play.google.com/store/apps/details?id=com.apex.apex_finance">
   <img src="https://img.shields.io/badge/Google_Play-Published_App-0F172A?style=for-the-badge&logo=googleplay&logoColor=34D399&labelColor=080D1A" alt="Play Store" />
 </a>
 <a href="https://hackerone.com">
-  <img src="https://img.shields.io/badge/HackerOne-Security_Researcher-0F172A?style=for-the-badge&logo=hackerone&logoColor=34D399&labelColor=080D1A" alt="HackerOne" />
+  <img src="https://img.shields.io/badge/HackerOne-Researcher-0F172A?style=for-the-badge&logo=hackerone&logoColor=34D399&labelColor=080D1A" alt="HackerOne" />
 </a>
 <a href="https://github.com/i-am-paradox?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Public_Creations-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=080D1A" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repos-Open_Source-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=080D1A" alt="Repositories" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=i-am-paradox&style=for-the-badge&color=34D399&labelColor=080D1A&label=Visitors" alt="Visitors" />
 
@@ -33,71 +30,30 @@
 
 ---
 
-### 🌿 A Little About Me
+### About Me
 
-> **Hello, I'm Paradox.**  
-> I am an Offensive Security Researcher and Systems Engineer with a deep foundation in applied mathematics.  
+> **I'm Paradox** — a security researcher and full-stack engineer from India.
 >
-> My focus centers on exploring protocol edge cases, validating software state transitions through formal verification, and engineering resilient, low-latency applications in **Rust**, **Go**, **C++**, and **Flutter**. I believe the most enduring systems are built on simple principles, provable invariants, and thoughtful craftsmanship.
+> I hunt vulnerabilities through bug bounty programs, build cross-platform mobile apps (one published on Google Play), and contribute to open-source projects with thousands of stars. My work spans web security auditing, backend systems with TypeScript and Python, and mobile development with Flutter. I value clean code, mathematical rigor, and responsible disclosure.
 
 ---
 
-### 🌌 Core Foundations
-
-<table width="100%">
-<tr>
-<td width="33.3%" valign="top">
-
-#### 🌿 Applied Mathematics
-- **Cryptographic Models**: Signal Protocol (Double Ratchet, 3DH), key derivation, and forward secrecy.
-- **Discrete & Graph Theory**: State space transition verification, path optimization, network invariants.
-- **Analytic Number Theory**: Primality testing heuristics, modular arithmetic, lattice foundations.
-- **Formal Verification**: Isolating edge-case state violations in concurrent state machines.
-
-</td>
-<td width="33.3%" valign="top">
-
-#### 🛡️ Security Research
-- **Vulnerability Audits**: Business logic flaws, authentication flow bypass, race conditions.
-- **Binary Analysis**: Static & dynamic disassembly using **Ghidra**, **Frida**, and **Radare2**.
-- **Mobile Security**: Android APK auditing, runtime gadget injection, IPC verification.
-- **Responsible Disclosure**: Coordinated vulnerability reporting under private bounty scopes.
-
-</td>
-<td width="33.3%" valign="top">
-
-#### ⚡ Systems Craft
-- **Low-Overhead Runtimes**: Memory safety and zero-cost abstractions in **Rust**, **C++**, and **Go**.
-- **Distributed Backends**: Microservices designed with **NestJS**, **Python**, **PostgreSQL**, and **Redis**.
-- **Consumer Mobile**: Published cross-platform mobile apps deployed to **Google Play** with **Flutter**.
-- **Web3 Ecosystems**: High-throughput TON blockchain DApps & Telegram Mini Apps.
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Featured Repositories & Creations
+### 🛠️ Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 #### 🖐️ [stark-holographic-hud](https://github.com/i-am-paradox/stark-holographic-hud)
-**Spatial Computer Vision & Holographic HUD**
-- An interactive client-side 3D particle system driven by webcam skeletal hand tracking. Executes computer-vision models and WebGL particle shaders at a smooth 60fps directly in the browser with zero server roundtrip latency.
-- `Three.js` · `MediaPipe Hands` · `WebGL` · `JavaScript`
-- [Explore Repository →](https://github.com/i-am-paradox/stark-holographic-hud)
+Interactive 3D particle system driven by webcam hand tracking. Computer-vision + WebGL shaders at 60fps, zero server latency.
+<br/>`Three.js` · `MediaPipe Hands` · `WebGL`
 
 </td>
 <td width="50%" valign="top">
 
 #### 🎬 [aniwebiste](https://github.com/i-am-paradox/aniwebiste)
-**Cinematic Scrollytelling & Motion Experience**
-- A physics-based scrollytelling web experience featuring smooth momentum scrolling, reactive Framer Motion physics, and spatial typography.
-- `TypeScript` · `Framer Motion` · `Lenis Scroll` · `TailwindCSS`
-- [Explore Repository →](https://github.com/i-am-paradox/aniwebiste) · [Live Demo ↗](https://i-am-paradox.github.io/aniwebiste/)
+Physics-based scrollytelling web experience with momentum scrolling, Framer Motion physics, and spatial typography.
+<br/>`TypeScript` · `Framer Motion` · `Lenis` · [Live Demo ↗](https://i-am-paradox.github.io/aniwebiste/)
 
 </td>
 </tr>
@@ -105,19 +61,15 @@
 <td width="50%" valign="top">
 
 #### 🪙 [shenzhen-frontend](https://github.com/i-am-paradox/shenzhen-frontend)
-**TON Web3 Tap-to-Earn DApp & Mini App**
-- High-concurrency Web3 application on The Open Network (TON). Implements database row-level locking (`SELECT ... FOR UPDATE`) in PostgreSQL to eliminate concurrency balance exploits and race conditions.
-- `TON Blockchain` · `Telegram Mini App` · `Prisma` · `PostgreSQL`
-- [Explore Repository →](https://github.com/i-am-paradox/shenzhen-frontend)
+Web3 DApp on TON blockchain — tap-to-earn engine with row-level locking to prevent concurrency exploits.
+<br/>`TON` · `Telegram Mini App` · `Prisma` · `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
 #### 🏥 [forever-foundation-backend](https://github.com/i-am-paradox/forever-foundation-backend)
-**Enterprise Charity & Payment Infrastructure**
-- High-availability microservices backend for financial contributions. Features idempotent webhook processors, Auth0 role-based authorization, and distributed ACID transactions via CockroachDB.
-- `NestJS` · `TypeScript` · `CockroachDB` · `PhonePe Gateway`
-- [Explore Repository →](https://github.com/i-am-paradox/forever-foundation-backend)
+Microservices backend for charitable contributions. Idempotent webhooks, Auth0 RBAC, distributed ACID transactions.
+<br/>`NestJS` · `TypeScript` · `CockroachDB` · `PhonePe`
 
 </td>
 </tr>
@@ -125,49 +77,23 @@
 <td width="50%" valign="top">
 
 #### ⚡ [paradox-finance-interface](https://github.com/i-am-paradox/paradox-finance-interface)
-**Stark-Tech Inspired Financial Dashboard UI**
-- A futuristic financial dashboard interface featuring holographic UI elements, automated deduction protocol visualizations, and custom dark aesthetics.
-- `HTML5` · `CSS3` · `JavaScript` · `Cyberpunk UI`
-- [Explore Repository →](https://github.com/i-am-paradox/paradox-finance-interface)
+Futuristic financial dashboard with holographic UI elements and automated deduction protocol visualizations.
+<br/>`HTML5` · `CSS3` · `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
 #### 🚀 [resume](https://github.com/i-am-paradox/resume)
-**Ultra-Premium Typographic LaTeX Resume**
-- A thoughtfully crafted open-source LaTeX resume template featuring custom TikZ hexagonal competency radar graphs, fine typographic kerning, gentle gradients, and zero external font dependencies.
-- `LaTeX` · `TikZ` · `Vector Graphics` · `Open Source` · ⭐ 1
-- [Explore Repository →](https://github.com/i-am-paradox/resume)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎨 [sticker-TG](https://github.com/i-am-paradox/sticker-TG)
-**Telegram Sticker Pack Automation Engine**
-- Automated utility transforming any image to standard Telegram sticker specifications with automatic dimension resizing, format conversion, and in-memory caching.
-- `Python` · `python-telegram-bot` · `Pillow` · `Automation`
-- [Explore Repository →](https://github.com/i-am-paradox/sticker-TG)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛒 [digitalshop](https://github.com/i-am-paradox/digitalshop)
-**Digital Subscriptions Storefront & Checkout Flow**
-- Clean e-commerce storefront for digital products and subscriptions featuring secure user authentication, catalog management, and responsive checkout flow.
-- `PHP` · `MySQL` · `JavaScript` · `Responsive Design`
-- [Explore Repository →](https://github.com/i-am-paradox/digitalshop)
+Open-source LaTeX resume template with TikZ hexagonal radar graphs, gradient design, and clean typography. ⭐ 1
+<br/>`LaTeX` · `TikZ` · `Vector Graphics`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
-> 📱 **Published Mobile Showcase:** [Apex Finance on Google Play Store](https://play.google.com/store/apps/details?id=com.apex.apex_finance) — *Modern personal finance manager with Firebase Auth, local encryption & biometric security.*
+> 📱 **Published on Google Play:** [Apex Finance](https://play.google.com/store/apps/details?id=com.apex.apex_finance) — Personal finance manager with Firebase Auth, local encryption & biometric security.
 
 </div>
 
@@ -181,25 +107,25 @@
 <tr>
 <th align="left">Repository</th>
 <th align="left">Domain</th>
-<th align="left">Contribution Scope</th>
-<th align="center">Stature</th>
+<th align="left">Contribution</th>
+<th align="center">Stars</th>
 </tr>
 <tr>
 <td><a href="https://github.com/stdlib-js/stdlib"><b>stdlib-js / stdlib</b></a></td>
-<td><code>JavaScript / TypeScript / Math</code></td>
-<td>Standard numerical library precision and documentation cross-links</td>
-<td><img src="https://img.shields.io/badge/Stars-5.9k%2B-0F172A?style=flat-square&logo=github&logoColor=34D399" /></td>
+<td><code>JavaScript / Math</code></td>
+<td>Numerical library precision and documentation</td>
+<td><img src="https://img.shields.io/badge/5.9k+-0F172A?style=flat-square&logo=github&logoColor=34D399" /></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Kozea/WeasyPrint/pull/2904"><b>Kozea / WeasyPrint</b></a></td>
-<td><code>Python / CSS / Rendering Engine</code></td>
-<td>CSS <code>text-emphasis</code> rendering implementation patch</td>
-<td><img src="https://img.shields.io/badge/Stars-9.5k%2B-0F172A?style=flat-square&logo=github&logoColor=34D399" /></td>
+<td><code>Python / CSS</code></td>
+<td>CSS <code>text-emphasis</code> rendering patch</td>
+<td><img src="https://img.shields.io/badge/9.5k+-0F172A?style=flat-square&logo=github&logoColor=34D399" /></td>
 </tr>
 <tr>
 <td><a href="https://github.com/ChelseaKR/tods-validate/pull/175"><b>ChelseaKR / tods-validate</b></a></td>
-<td><code>Transit / GTFS / Standards</code></td>
-<td>Operational data standard validation rule <code>TODS-W109</code> drift detection</td>
+<td><code>Transit / GTFS</code></td>
+<td>Validation rule <code>TODS-W109</code> drift detection</td>
 <td><img src="https://img.shields.io/badge/Spec-Compliant-0F172A?style=flat-square&logo=github&logoColor=38BDF8" /></td>
 </tr>
 </table>
@@ -208,33 +134,27 @@
 
 ---
 
-### 🧰 Tools & Technologies
+### 🧰 Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td align="right" width="22%"><b>Core Languages</b></td>
+<td align="right" width="22%"><b>Languages</b></td>
 <td align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,cpp,c,go,python,ts,js,dart,bash&theme=dark" alt="Languages" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,dart,bash,cpp&theme=dark" alt="Languages" /></a>
 </td>
 </tr>
 <tr>
-<td align="right" width="22%"><b>Security &amp; Environment</b></td>
+<td align="right" width="22%"><b>Security & DevOps</b></td>
 <td align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,linux,docker,git,github,burpsuite&theme=dark" alt="Security" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,linux,docker,git,github&theme=dark" alt="Security" /></a>
 </td>
 </tr>
 <tr>
-<td align="right" width="22%"><b>Backends &amp; Mobile</b></td>
+<td align="right" width="22%"><b>Frameworks</b></td>
 <td align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,postgres,firebase,flutter,threejs,react,nextjs,tailwind&theme=dark" alt="Frameworks" /></a>
-</td>
-</tr>
-<tr>
-<td align="right" width="22%"><b>Scientific &amp; Protocol</b></td>
-<td align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=latex,markdown,postman,vite&theme=dark" alt="Scientific" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,postgres,firebase,flutter,react,nextjs,tailwind&theme=dark" alt="Frameworks" /></a>
 </td>
 </tr>
 </table>
@@ -243,26 +163,9 @@
 
 ---
 
-### 📊 Activity & Telemetry
+### 📊 Activity
 
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="4">
-<tr>
-<td align="center" valign="middle">
-  <a href="https://github.com/i-am-paradox">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=i-am-paradox&show_icons=true&bg_color=080D1A&title_color=38BDF8&text_color=CBD5E1&icon_color=34D399&border_color=1E293B&hide_border=false" alt="GitHub Overview" />
-  </a>
-</td>
-<td align="center" valign="middle">
-  <a href="https://github.com/i-am-paradox">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=i-am-paradox&layout=compact&bg_color=080D1A&title_color=38BDF8&text_color=CBD5E1&border_color=1E293B&hide_border=false" alt="Top Languages" />
-  </a>
-</td>
-</tr>
-</table>
-
-<br/>
 
 <a href="https://github.com/i-am-paradox">
   <img src="https://streak-stats.demolab.com?user=i-am-paradox&theme=dark&hide_border=false&background=080D1A&ring=34D399&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=34D399&sideNums=CBD5E1&dates=64748B&stroke=1E293B" alt="Contribution Streak" />
@@ -270,9 +173,7 @@
 
 <br/><br/>
 
-<p align="center"><b>[ CONTINUOUS CONTRIBUTION RADAR ]</b></p>
-
-<img src="https://raw.githubusercontent.com/i-am-paradox/i-am-paradox/output/github-snake-dark.svg" alt="Contribution Snake Animation" width="98%" />
+<img src="https://raw.githubusercontent.com/i-am-paradox/i-am-paradox/output/github-snake-dark.svg" alt="Contribution Snake" width="98%" />
 
 </div>
 
@@ -280,32 +181,6 @@
 
 ---
 
-### 🕊️ Ethics & Disclosure Policy
-
-> **RESPONSIBLE DISCLOSURE COMMITMENT**  
-> All security research, vulnerability discovery, and exploit proofs are conducted strictly in adherence to authorized program rules of engagement, client consent, or private coordinated vulnerability disclosure policies. The goal is always to strengthen ecosystems through verifiable safety proofs.
-
----
-
-### 🌐 Get In Touch
-
 <div align="center">
-
-<a href="https://i-am-paradox.github.io/aniwebiste/">
-  <img src="https://img.shields.io/badge/Interactive_Portfolio-080D1A?style=for-the-badge&logo=googlechrome&logoColor=34D399&labelColor=0F172A" alt="Portfolio" />
-</a>
-<a href="https://github.com/i-am-paradox">
-  <img src="https://img.shields.io/badge/GitHub_Profile-080D1A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="GitHub" />
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.apex.apex_finance">
-  <img src="https://img.shields.io/badge/Google_Play_Store-080D1A?style=for-the-badge&logo=googleplay&logoColor=34D399&labelColor=0F172A" alt="Play Store" />
-</a>
-<a href="https://hackerone.com">
-  <img src="https://img.shields.io/badge/HackerOne_Profile-080D1A?style=for-the-badge&logo=hackerone&logoColor=34D399&labelColor=0F172A" alt="HackerOne" />
-</a>
-
-<br/><br/>
-
-<sub>© 2026 Paradox · Built with care, clarity, and mathematical rigor.</sub>
-
+<sub>© 2026 Paradox · Security Researcher · Full-Stack Engineer · India</sub>
 </div>
