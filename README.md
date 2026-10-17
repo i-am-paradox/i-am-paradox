@@ -111,22 +111,52 @@ Open-source LaTeX resume template with TikZ hexagonal radar graphs, gradient des
 <th align="center">Stars</th>
 </tr>
 <tr>
+<td><a href="https://github.com/projectdiscovery/nuclei-templates/pull/17350"><b>projectdiscovery / nuclei-templates</b></a></td>
+<td><code>Security / Exploit DB</code></td>
+<td>CVE-2026-10818 arbitrary file upload & CVE-2021-42392 templates</td>
+<td><img src="https://img.shields.io/badge/11.5k+-0F172A?style=flat-square&logo=github&logoColor=34D399" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Kozea/WeasyPrint/pull/2904"><b>Kozea / WeasyPrint</b></a></td>
+<td><code>Python / CSS Engine</code></td>
+<td>CSS <code>text-emphasis</code> property parser & layout implementation</td>
+<td><img src="https://img.shields.io/badge/9.5k+-0F172A?style=flat-square&logo=github&logoColor=34D399" /></td>
+</tr>
+<tr>
 <td><a href="https://github.com/stdlib-js/stdlib"><b>stdlib-js / stdlib</b></a></td>
 <td><code>JavaScript / Math</code></td>
 <td>Numerical library precision and documentation</td>
 <td><img src="https://img.shields.io/badge/5.9k+-0F172A?style=flat-square&logo=github&logoColor=34D399" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Kozea/WeasyPrint/pull/2904"><b>Kozea / WeasyPrint</b></a></td>
-<td><code>Python / CSS</code></td>
-<td>CSS <code>text-emphasis</code> rendering patch</td>
-<td><img src="https://img.shields.io/badge/9.5k+-0F172A?style=flat-square&logo=github&logoColor=34D399" /></td>
+<td><a href="https://github.com/confluentinc/confluent-kafka-python/pull/2342"><b>confluentinc / confluent-kafka-python</b></a></td>
+<td><code>Distributed Systems / C</code></td>
+<td>Read-only <code>config()</code> method with sensitive property redaction</td>
+<td><img src="https://img.shields.io/badge/4.8k+-0F172A?style=flat-square&logo=github&logoColor=34D399" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/ChelseaKR/tods-validate/pull/175"><b>ChelseaKR / tods-validate</b></a></td>
-<td><code>Transit / GTFS</code></td>
-<td>Validation rule <code>TODS-W109</code> drift detection</td>
+<td><a href="https://github.com/darnitdevorg/darnit/pull/537"><b>darnitdevorg / darnit</b></a></td>
+<td><code>Security / OpenSSF</code></td>
+<td>Organization compliance calculation & MCP server test suite</td>
+<td><img src="https://img.shields.io/badge/OpenSSF-Tooling-0F172A?style=flat-square&logo=github&logoColor=38BDF8" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/ChelseaKR/tods-validate/pull/178"><b>ChelseaKR / tods-validate</b></a></td>
+<td><code>Transit / GTFS Engine</code></td>
+<td>Rule <code>TODS-W109</code> spec derivation & spec-watch conditional sync</td>
 <td><img src="https://img.shields.io/badge/Spec-Compliant-0F172A?style=flat-square&logo=github&logoColor=38BDF8" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/MindfulSoftwareLLC/dartastic_opentelemetry_api/pull/137"><b>MindfulSoftwareLLC / dartastic_opentelemetry_api</b></a></td>
+<td><code>Dart / Observability</code></td>
+<td>W3C tracestate truncation & safe trace/span ID extraction</td>
+<td><img src="https://img.shields.io/badge/OpenTelemetry-0F172A?style=flat-square&logo=github&logoColor=34D399" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/rustpunk/clinker/pull/1368"><b>rustpunk / clinker</b></a></td>
+<td><code>Rust / Systems CLI</code></td>
+<td>Process signal handling & exit code 130 metrics propagation</td>
+<td><img src="https://img.shields.io/badge/Rust-CLI-0F172A?style=flat-square&logo=github&logoColor=38BDF8" /></td>
 </tr>
 </table>
 
